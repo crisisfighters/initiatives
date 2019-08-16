@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Alexander Thiel</title>
+    <meta charset="utf-8"/>
+    <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<div id="grid"></div>
+<table id="grid2">
+    <thead>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+<script src="data.js"></script>
+<script src="fields.js"></script>
+<script>
+
+    (() => {
+
+        document.querySelector("#grid2 thead")
+            .insertAdjacentHTML(
+                'beforeend',
+                Object.keys(fields)
+                    .reduce(
+                        (acc, group) => [
+                            [
+                                ...acc[0],
+                                `<th class="${group}" colspan="${Object.keys(fields[group].children).length}">${fields[group].title}</th>`
+                            ],
+                            [
+                                ...acc[1],
+                                ...Object.keys(fields[group].children).map(field => `<th class="${group}">${fields[group].children[field].title}</th>`),
+                            ],
+                        ],
+                        [[], []]
+                    )
+                    .map(thSet => `<tr>${thSet.join('\n')}</tr>`)
+                    .join('\n'));
+
+
+        const flatFields = Object.keys(fields)
+            .reduce(
+                (acc, group) => ({
+                    ...acc,
+                    ...fields[group].children
+                }),
+                {});
+
+        const render = content => content === undefined
+            ? `<td>-</td>`
+            : typeof content === "string"
+                ? `<td>${content}</td>`
+                : `<td><span class="updated">${content.updatedBy} (${content.updatedAt}):</span>${content.content}</td>`
+        ;
+
+        document.querySelector("#grid2 tbody")
+            .insertAdjacentHTML(
+                'beforeend',
+                data.map(row => `<tr>${
+                    Object.keys(flatFields)
+                        .map(field => render(row[field]))
+                        .join('')
+                    }</tr>`)
+                    .join('\n')
+            );
+    })();
+</script>
+</body>
+</html>

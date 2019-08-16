@@ -1,0 +1,33 @@
+th.basics {
+    background-color: lightyellow !important;
+}
+
+th.people,
+td.people {
+    background-color: lightblue !important;
+}
+
+.updated {
+    display: block;
+    font-size: 8px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tbody tr:hover {
+    background-color: yellow;
+}
+
+td, th {
+    white-space: pre;
+    vertical-align: top;
+    padding: 5px;
+    margin: 1px;
+    border: 1px solid lightgray;
+}
+
+tr:nth-child(2n) {
+    background-color: #f0f0f0;
+}
