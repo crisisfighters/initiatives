@@ -31,3 +31,8 @@ td, th {
 tr:nth-child(2n) {
     background-color: #f0f0f0;
 }
+
+
+hr {
+    margin-top: 50px
+}
