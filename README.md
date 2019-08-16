@@ -1,6 +1,5 @@
 # Extinction Fighters
-ExtinctionFighters.org wants to collaboratively collect and assess initiatives fighting extinction.
-    Extinction refers to the breakdown of civilization due to the unmitigated climate and biodiversity crises.<br/>
+ExtinctionFighters.org wants to collaboratively collect and assess initiatives fighting extinction. That is the breakdown of civilization due to the unmitigated climate and biodiversity crises.<br/>
     We sympathize but are not affiliated with <a href="https://rebellion.earth/">extinction rebellion</a>.</p>
 
 # Contribute
