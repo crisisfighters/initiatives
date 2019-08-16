@@ -6,7 +6,11 @@
     <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-
+<h1>Extinction Fighters</h1>
+<p>This website wants to collaboratively collect and assess initiatives fighting extinction.</p>
+<p>Extinction refers to the breakdown of civilization due to the unmitigated climate and biodiversity crises.</p>
+<p>Although sharing their core beliefs, this page is in not affiliated with <a href="https://rebellion.earth/">XR</a> / <a
+        href="https://rebellion.earth/">extinction rebellion</a>.</p>
 <div id="grid"></div>
 <table id="grid2">
     <thead>
@@ -50,11 +54,14 @@
                 }),
                 {});
 
-        const render = content => content === undefined
-            ? `<td>-</td>`
-            : typeof content === "string"
-                ? `<td>${content}</td>`
-                : `<td><span class="updated">${content.updatedBy} (${content.updatedAt}):</span>${content.content}</td>`
+        const render = content =>
+            `<td>${
+                content === undefined
+                    ? '-'
+                    : typeof content === "string"
+                    ? content
+                    : `<span class="updated">${content.updatedBy} (${content.updatedAt}):</span>${content.content}`
+                }</td>`
         ;
 
         document.querySelector("#grid2 tbody")

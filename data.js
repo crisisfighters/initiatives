@@ -5,12 +5,12 @@ const data = [
             content: "Hallo Heinz",
             updatedBy: "Alexander", updatedAt: "2019-08-06"
         },
-        legalForm: {
-            content: "GmbH",
-            updatedBy: "Alexander", updatedAt: "2019-08-06"
-        },
+        // legalForm: {
+        //     content: "GmbH",
+        //     updatedBy: "Alexander", updatedAt: "2019-08-06"
+        // },
         established: {
-            content: "1997",
+            content: "2008",
             updatedBy: "Alexander", updatedAt: "2019-08-06"
         },
         // kpis: {
@@ -59,12 +59,9 @@ const data = [
     {
         initiative: "Extinction Rebellion",
         established: {
-            content: "1997",
+            content: "2018",
             updatedBy: "Alexander", updatedAt: "2019-08-06"
         },
-    },
-    {
-        initiative: "Extinction Rebellion",
     },
     {
         initiative: "WWF",
