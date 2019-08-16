@@ -1,5 +1,5 @@
 ---
-name: Update Data Point(s)
+name: ✎ Update Data Point(s)
 about: Data is missing or outdated? Suggest updates for one of the initiatives in
   the list.
 title: Change Data Point(s)
