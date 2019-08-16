@@ -1,10 +1,23 @@
 th.basics {
-    background-color: lightyellow !important;
+    background-color: #f0fff0 !important;
 }
 
-th.people,
-td.people {
-    background-color: lightblue !important;
+th.people {
+    background-color: #f0f0ff !important;
+}
+
+th.internationality {
+    background-color: #fffff0 !important;
+}
+
+th.resources {
+    background-color: #fff0f0 !important;
+}
+th.reach {
+    background-color: #f0ffff !important;
+}
+th.legislativeParticipation {
+    background-color: #fff0ff !important;
 }
 
 .updated {
@@ -31,7 +44,6 @@ td, th {
 tr:nth-child(2n) {
     background-color: #f0f0f0;
 }
-
 
 hr {
     margin-top: 50px
