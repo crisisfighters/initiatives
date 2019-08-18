@@ -81,7 +81,7 @@
                 {});
 
         const md = window.markdownit();
-        const render = content =>
+        const render = (content, initiative) =>
             `<td>${
                 content === undefined
                     ? '-'
@@ -89,7 +89,7 @@
                     ? `<a href="${content.link}">${content.name}</a>`
                     : content.name
                         ? content.name
-                        : `<span class="updated">${content.updatedBy} (${content.updatedAt}):</span>${
+                        : `<span class="updated">${content.updatedBy} (<a href="https://github.com/extinctionfighters/initiatives/pulls?q=is%3Apr+label%3A${initiative.meta.label}">${content.updatedAt}</a>):</span>${
                             md.render(content.content)
                             }`
                 }</td>`
@@ -98,9 +98,9 @@
         document.querySelector("#grid2 tbody")
             .insertAdjacentHTML(
                 'beforeend',
-                data.map(row => `<tr>${
+                data.map(initiative => `<tr>${
                     Object.keys(flatFields)
-                        .map(field => render(row[field]))
+                        .map(field => render(initiative[field], initiative))
                         .join('')
                     }</tr>`)
                     .join('\n')

@@ -40,11 +40,10 @@ td, th {
     border: 1px solid lightgray;
 }
 
-td ul {
-    margin: 0;
-}
+td ul,
 td p {
     margin: 0;
+    min-width: 150px
 }
 
 tr:nth-child(2n) {
