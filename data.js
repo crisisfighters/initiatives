@@ -93,12 +93,15 @@ const data = [
         actions: {
             content: "-",
             updatedBy: "Andre", updatedAt: "2019-08-18",
-
-        },
-        pressArticles: {
-            content: "-",
-            updatedBy: "Andre", updatedAt: "2019-08-18",
-
+            employees: {
+                content: "- 103 in 2017\n- 43 in 2012",
+                updatedBy: "Andre", updatedAt: "2019-08-06"
+            },
+            yearlyIncome: {
+                content: "- 752M € in [2018] (http://d2ouvy59p0dg6k.cloudfront.net/downloads/wwfintl_annualreview20182.pdf)" +
+                    "\n- 145,9M € in [2013] (http://d2ouvy59p0dg6k.cloudfront.net/downloads/ar2013_v15_lr_1.pdf)",
+                updatedBy: "Andre", updatedAt: "2019-08-18"
+            },
         },
 
     },
