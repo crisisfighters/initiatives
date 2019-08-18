@@ -7,6 +7,7 @@ const fields = {
             description: {title: 'Description'},
             established: {title: 'Established'},
             kpis: {title: 'KPIs'},
+            actions: {title: 'Actions'},
         },
     },
     internationality: {
