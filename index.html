@@ -16,7 +16,8 @@
 <p>Calls to change individual behavior distract from what’s necessary. Our planet will become largely uninhabitable
     unless we quickly move the political mainstream to enforcing immediate, impactful action. Assessing the efficiency
     of existing and new initiatives in a crowd-sourced, data-driven way allows to efficiently funnel resources (time &
-    money) to give us a fighting chance. <a href="https://medium.com/@alexthiel/stop-climate-change-ea99133daac5">More on Medium</a>.</p>
+    money) to give us a fighting chance. <a href="https://medium.com/@alexthiel/stop-climate-change-ea99133daac5">More
+        on Medium</a>.</p>
 <hr/>
 <h1>Initiatives</h1>
 <p>The following data needs to be updated and improved by all of us. Please scroll down to find out how to <a
@@ -28,7 +29,7 @@
     </tbody>
 </table>
 <hr/>
-<a name="contribute"/>
+<a name="contribute"></a>
 <h1>Contribute</h1>
 <p>You can <b>add initiatives</b>, <b>update data</b> and make other changes to this website - it's open source and easy
     to improve.<br/>
@@ -81,9 +82,11 @@
             `<td>${
                 content === undefined
                     ? '-'
-                    : typeof content === "string"
-                    ? content
-                    : `<span class="updated">${content.updatedBy} (${content.updatedAt}):</span>${content.content}`
+                    : content.name && content.link
+                    ? `<a href="${content.link}">${content.name}</a>`
+                    : content.name
+                        ? content.name
+                        : `<span class="updated">${content.updatedBy} (${content.updatedAt}):</span>${content.content}`
                 }</td>`
         ;
 

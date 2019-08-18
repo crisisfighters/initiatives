@@ -3,7 +3,7 @@ const fields = {
     basics: {
         title: 'Basics',
         children: {
-            initiative: {title: 'Initiative'},
+            meta: {title: 'Initiative'},
             description: {title: 'Description'},
             established: {title: 'Established'},
             kpis: {title: 'KPIs'},

@@ -1,6 +1,9 @@
 const data = [
     {
-        initiative: "ClientEarth",
+        meta: {
+            name: "ClientEarth",
+            link: "https://www.clientearth.org/",
+        },
         description: {
             content: "Hallo Heinz",
             updatedBy: "Alexander", updatedAt: "2019-08-06"
@@ -12,7 +15,10 @@ const data = [
 
     },
     {
-        initiative: "Extinction Rebellion",
+        meta: {
+            name: "Extinction Rebellion",
+            link: "https://rebellion.earth",
+        },
         established: {
             content: "2018",
             updatedBy: "Alexander", updatedAt: "2019-08-06"
@@ -24,33 +30,33 @@ const data = [
         },
     },
     {
-        initiative: "WWF",
+        meta: {name: "WWF",}
     },
     {
-        initiative: "Greenpeace",
+        meta: {name: "Greenpeace",}
     },
     {
-        initiative: "Ende Gelände",
+        meta: {name: "Ende Gelände",}
     },
     {
-        initiative: "CERES",
+        meta: {name: "CERES",}
     },
     {
-        initiative: "World Ressource Institution",
+        meta: {name: "World Ressource Institution",}
     },
     {
-        initiative: "350.org",
+        meta: {name: "350.org",}
     },
     {
-        initiative: "Sierra Club",
+        meta: {name: "Sierra Club",}
     },
     {
-        initiative: "Idle no more",
+        meta: {name: "Idle no more",}
     },
     {
-        initiative: "Union of concerned Scientists",
+        meta: {name: "Union of concerned Scientists",}
     },
     {
-        initiative: "Hambacher Forst",
+        meta: {name: "Hambacher Forst",}
     },
 ];
