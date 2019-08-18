@@ -91,7 +91,19 @@ const data = [
         meta: {name: "Idle no more",}
     },
     {
-        meta: {name: "Union of concerned Scientists",}
+        meta: {
+            name: "Union of concerned Scientists",
+            link: "http://ucsusa.org/",
+            label: "union-of-concerned-scientists",
+        },
+        established: {
+            content: "1969",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        participation: {
+            content: "over 200,000 members",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
     },
     {
         meta: {name: "Hambacher Forst",}
