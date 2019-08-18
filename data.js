@@ -161,7 +161,7 @@ const data = [
         },
         actions: {
             content: "It's not clear from the [website](https://www.sierraclub.org/climate-and-energy) what exactly actions look like." +
-                "\n- 4,500 rallies and events",
+                "\n- [4,500 rallies and events] (https://www.sierraclub.org/about-sierra-club)",
             updatedBy: "Alexander", updatedAt: "2019-08-18",
 
         },
