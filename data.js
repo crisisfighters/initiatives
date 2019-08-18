@@ -19,7 +19,7 @@ const data = [
         },
         employees: {
             content: "- 103 in 2017\n- 43 in 2012",
-            updatedBy: "Alexander", updatedAt: "2019-08-06"
+            updatedBy: "Andre", updatedAt: "2019-08-06"
         },
         yearlyIncome: {
             content: "- 11.5M £ in 2017" +
