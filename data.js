@@ -114,6 +114,37 @@ const data = [
             content: "1892",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
+        kpis: {
+            content: "unclear",
+            updatedBy: "Alexander", updatedAt: "2019-08-18",
+
+        },
+        description: {
+            content: "One of the oldest wildlife protection organization." +
+                "\n- Progressive liberal standpoint" +
+                "\n- Promotes and guides outdoor recreational activity" +
+                "\n- Lobbies, endorses political candidates",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        actions: {
+            content: "It's not clear from the [website](https://www.sierraclub.org/climate-and-energy) what exactly actions look like." +
+                "\n- 4,500 rallies and events\n" +
+                "\n- 3M+ petition signatures",
+            updatedBy: "Alexander", updatedAt: "2019-08-18",
+
+        },
+        activeCountries: {
+            content: "USA (primarily) and Canada ([Sierra Club Canada](http://www.sierraclub.ca/))",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        yearlyIncome: {
+            content: "$ 100M",
+            updatedBy: "Alexander", updatedAt: "2011-11-19"
+        },
+        employees: {
+            content: "about 600",
+            updatedBy: "Alexander", updatedAt: "2011-11-19"
+        },
     },
     {
         meta: {
