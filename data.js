@@ -68,7 +68,7 @@ const data = [
     },
     {
         meta: {
-            name: "wwf",            
+            name: "wwf",
             link: "http://wwf.panda.org/",
             label: "wwf",
         },
@@ -163,6 +163,38 @@ const data = [
             name: "Hambacher Forst",
             link: "",
             label: "hambacher-forst",
+        },
+    },
+    {
+        meta: {
+            name: "ClimateWorks",
+            link: "https://www.climateworks.org/",
+            label: "climate-works",
+        },
+        description: {
+            content: "The ClimateWorks foundation funnels philanthropy money to NGOs to help to fight the climate crisis.",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        established: {
+            content: "2008",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        kpis: {
+            content: "- Money granted" +
+                "\n- Number of grants" +
+                "\n- Grantees",
+            updatedBy: "Alexander", updatedAt: "2019-08-18",
+
+        },
+        activeCountries: {
+            content: "Focus is in the US, grants are given globally.",
+            updatedBy: "Alexander", updatedAt: "2019-08-18",
+        },
+        yearlyIncome: {
+            content: "- $ 100M in 2017" +
+                "\n- $ 50M in 2016" +
+                "\n- Says to have funneled $ 1B since 2008",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
     },
 ];
