@@ -182,7 +182,7 @@ const data = [
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
         participation: {
-            content: "[3M+ petition signatures] ()",
+            content: "[3M+ petition signatures] (https://www.sierraclub.org/about-sierra-club)",
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
     },
