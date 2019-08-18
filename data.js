@@ -68,9 +68,9 @@ const data = [
     },
     {
         meta: {
-            name: "WWF",            
+            name: "wwf",            
             link: "http://wwf.panda.org/",
-            label: "WWF",
+            label: "wwf",
         },
         description: {
             content: "WWF is active since 1961 and therefore a well experienced player within the environmental engagement game. The biggest Pro on WWF is that it is well known and People trust the organization. They do not have a precise focus on the climate crises but there is also a focus on it. One of their goals for 2030 is to reduce greenhouse gas emissions by 40%.",
