@@ -43,7 +43,11 @@ td, th {
 td ul,
 td p {
     margin: 0;
-    min-width: 150px
+    min-width: 150px;
+    font-size: 14px;
+}
+td ul {
+    padding-left: 25px;
 }
 
 tr:nth-child(2n) {

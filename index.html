@@ -86,7 +86,7 @@
                 content === undefined
                     ? '-'
                     : content.name && content.link
-                    ? `<a href="${content.link}">${content.name}</a>`
+                    ? `<p><a href="${content.link}">${content.name}</a></p>`
                     : content.name
                         ? content.name
                         : `<span class="updated">${content.updatedBy} (<a href="https://github.com/extinctionfighters/initiatives/pulls?q=is%3Apr+label%3A${initiative.meta.label}">${content.updatedAt}</a>):</span>${
