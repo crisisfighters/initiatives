@@ -128,8 +128,7 @@ const data = [
         },
         actions: {
             content: "It's not clear from the [website](https://www.sierraclub.org/climate-and-energy) what exactly actions look like." +
-                "\n- 4,500 rallies and events\n" +
-                "\n- 3M+ petition signatures",
+                "\n- 4,500 rallies and events",
             updatedBy: "Alexander", updatedAt: "2019-08-18",
 
         },
@@ -143,6 +142,10 @@ const data = [
         },
         employees: {
             content: "about 600",
+            updatedBy: "Alexander", updatedAt: "2011-11-19"
+        },
+        participation: {
+            content: "3M+ petition signatures",
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
     },
