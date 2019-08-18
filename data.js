@@ -155,6 +155,10 @@ const data = [
             link: "http://ucsusa.org/",
             label: "ucs",
         },
+        description: {
+            content: "The UCS is a group of scientists, engineers, economists, activists, and everyday people propagating using science to protect health, safety, and environment.",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
         established: {
             content: "1969",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
