@@ -170,15 +170,19 @@ const data = [
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         yearlyIncome: {
-            content: "$ 100M",
+            content: "[$ 100M] (https://www.latimes.com/archives/la-xpm-2011-nov-19-la-me-sierra-club-20111119-story.html)",
+            updatedBy: "Alexander", updatedAt: "2011-11-19"
+        },
+        members: {
+            content: "[3.5+ M] (https://www.sierraclub.org/about-sierra-club)",
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
         employees: {
-            content: "about 600",
+            content: "[about 600] (https://www.latimes.com/archives/la-xpm-2011-nov-19-la-me-sierra-club-20111119-story.html)",
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
         participation: {
-            content: "3M+ petition signatures",
+            content: "[3M+ petition signatures] ()",
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
     },
