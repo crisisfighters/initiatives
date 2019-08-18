@@ -106,8 +106,43 @@ const data = [
 
     },
     {
-        meta: {name: "Greenpeace",}
+        meta: { name: "Greenpeace",            
+                link: "https://www.greenpeace.org/international/",
+                label: "greenpeace",
     },
+    description: {
+        content: "Greenpeace is another big player. They also do work on a big scale as you can see on the Income they have to put them into their projects. Greenpeace has a lot of Actions going on.",
+        updatedBy: "Andre", updatedAt: "2019-08-18"
+    },
+    established: {
+        content: "[1971](http://www.tiki-toki.com/timeline/entry/594418/Greenpeace/#vars!date=1942-02-09_13:52:01!)",
+        updatedBy: "Andre", updatedAt: "2019-08-06"
+    },
+    kpis: {
+        content: "- Actions done / pa \n- Participants in actions\n- Members\n- Press Mentions",
+        updatedBy: "Andre", updatedAt: "2019-08-06",
+
+    },
+    activeCountries: {
+        content: "",
+        updatedBy: "Andre", updatedAt: "2019-08-18",
+
+    },
+    actions: {
+        content: "-",
+        updatedBy: "Andre", updatedAt: "2019-08-18",
+        employees: {
+            content: "- 103 in 2017\n- 43 in 2012",
+            updatedBy: "Andre", updatedAt: "2019-08-06"
+        },
+        yearlyIncome: {
+            content:
+            updatedBy: "Andre", updatedAt: "2019-08-18"
+        },
+    },
+
+},
+
     {
         meta: {name: "Ende Gelände",}
     },
