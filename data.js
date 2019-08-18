@@ -18,7 +18,7 @@ const data = [
         meta: {
             name: "Extinction Rebellion",
             link: "https://rebellion.earth",
-            tags: "extinction-rebellion",
+            label: "extinction-rebellion",
         },
         description: {
             content: "Extinction Rebellion (XR) is an international movement that uses non-violent civil disobedience in an attempt to halt mass extinction and minimise the risk of social collapse.",
@@ -39,7 +39,8 @@ const data = [
 
         },
         actions: {
-            content: "XR had it's most visible action so far when it caused disruption in 5 UK cities in July 2019 (e.g. by blocking bridges in London). Other, smaller acts of civil disobedience happen increasingly frequently world-wide.",
+            content: "XR had it's most visible action so far when it caused [disruption in 5 UK cities in July 2019 (e.g. by blocking bridges in London)](https://rebellion.earth/2019/07/10/from-monday-15-july-extinction-rebellions-summer-uprising-act-now-to-cause-major-disruption-across-five-uk-cities/). " +
+                "Other, smaller acts of civil disobedience happen increasingly frequently world-wide.",
             updatedBy: "Alexander", updatedAt: "2019-08-18",
 
         },
