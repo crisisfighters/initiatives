@@ -175,6 +175,25 @@ const data = [
             content: "The ClimateWorks foundation funnels philanthropy money to NGOs to help to fight the climate crisis.",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
+        employees: {
+            content: "78",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        actions: {
+            content: "Handed out 1500+ grants that can be explored in their online [grants database](https://www.climateworks.org/portfolios/grants-database/). " +
+                "There's considerable focus on technical solutions. Grants are given out in these areas:" +
+                "\n- Buildings & Industry" +
+                "\n- Carbon Dioxide Removal" +
+                "\n- Clean Power" +
+                "\n- Cooling" +
+                "\n- Forests & Land Use" +
+                "\n- International Engagement" +
+                "\n- Mission Investing" +
+                "\n- Non-CO2 Mitigation" +
+                "\n- Sustainable Finance" +
+                "\n- Transportation",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
         established: {
             content: "2008",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
