@@ -34,11 +34,17 @@ tbody tr:hover {
 }
 
 td, th {
-    white-space: pre;
     vertical-align: top;
     padding: 5px;
     margin: 1px;
     border: 1px solid lightgray;
+}
+
+td ul {
+    margin: 0;
+}
+td p {
+    margin: 0;
 }
 
 tr:nth-child(2n) {

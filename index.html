@@ -4,6 +4,8 @@
     <title>ExtinctionFighters.org</title>
     <meta charset="utf-8"/>
     <link href="style.css" rel="stylesheet" type="text/css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/9.1.0/markdown-it.min.js"
+            integrity="sha256-TkN8s0Xn8oiroeIyHkXDjt+W71FdPsdjFmn3jKbLgxQ=" crossorigin="anonymous"></script>
 </head>
 <body>
 <h1>ExtinctionFighters.org</h1>
@@ -78,6 +80,7 @@
                 }),
                 {});
 
+        const md = window.markdownit();
         const render = content =>
             `<td>${
                 content === undefined
@@ -86,7 +89,9 @@
                     ? `<a href="${content.link}">${content.name}</a>`
                     : content.name
                         ? content.name
-                        : `<span class="updated">${content.updatedBy} (${content.updatedAt}):</span>${content.content}`
+                        : `<span class="updated">${content.updatedBy} (${content.updatedAt}):</span>${
+                            md.render(content.content)
+                            }`
                 }</td>`
         ;
 
