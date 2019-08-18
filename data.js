@@ -115,21 +115,7 @@ const data = [
         content: "- Actions done / pa \n- Participants in actions\n- Members\n- Press Mentions",
         updatedBy: "Andre", updatedAt: "2019-08-06",
     },
-    activeCountries: {
-        content: "",
-        updatedBy: "Andre", updatedAt: "2019-08-18",
-    },
-    actions: {
-        content: "-",
-        updatedBy: "Andre", updatedAt: "2019-08-18",
-        employees: {
-            content: "-",
-            updatedBy: "Andre", updatedAt: "2019-08-06"
-        },
-    },
-
 },
-
     {
         meta: {
             name: "Ende Gelände",
