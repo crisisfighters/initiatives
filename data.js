@@ -88,12 +88,10 @@ const data = [
         activeCountries: {
             content: "[about 100 countries](http://wwf.panda.org/knowledge_hub/history/50_years_of_achievements/)",
             updatedBy: "Andre", updatedAt: "2019-08-18",
-
         },
         actions: {
             content: "-",
             updatedBy: "Andre", updatedAt: "2019-08-18",
-
         },
         pressArticles: {
             content: "-",
@@ -155,14 +153,31 @@ const data = [
         meta: {
             name: "Union of concerned Scientists",
             link: "http://ucsusa.org/",
-            label: "union-of-concerned-scientists",
+            label: "ucs",
         },
         established: {
             content: "1969",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
+        actions: {
+            content: "- Research & Studies" +
+                "\n- PR, lobbying" +
+                "\n- Supporting other NGOs (1,500+)",
+            updatedBy: "Alexander", updatedAt: "2019-08-18",
+        },
+        yearlyIncome: {
+            content: "$ 40M" +
+                "\n\n72% membership & contributions" +
+                "\n\n22% foundations",
+            updatedBy: "Alexander", updatedAt: "2018-11-30"
+        },
+        employees: {
+            content: "almost 250 scientists, analysts, policy and communication experts",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
         participation: {
-            content: "over 200,000 members",
+            content: "- 200,000+ members" +
+                "\n- 500,000+ supporters",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
     },
