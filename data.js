@@ -70,30 +70,66 @@ const data = [
         meta: {name: "WWF",}
     },
     {
-        meta: {name: "Greenpeace",}
+        meta: {
+            name: "Greenpeace",
+            link: "",
+            label: "greenpeace",
+        },
     },
     {
-        meta: {name: "Ende Gelände",}
+        meta: {
+            name: "Ende Gelände",
+            link: "",
+            label: "ende-gelaende",
+        },
     },
     {
-        meta: {name: "CERES",}
+        meta: {
+            name: "CERES",
+            link: "",
+            label: "ceres",
+        },
     },
     {
-        meta: {name: "World Ressource Institution",}
+        meta: {
+            name: "World Ressource Institution",
+            link: "",
+            label: "world-resource-institution",
+        },
     },
     {
-        meta: {name: "350.org",}
+        meta: {
+            name: "350.org",
+            link: "",
+            label: "350-org",
+        },
     },
     {
-        meta: {name: "Sierra Club",}
+        meta: {
+            name: "Sierra Club",
+            link: "",
+            label: "sierra-club",
+        },
     },
     {
-        meta: {name: "Idle no more",}
+        meta: {
+            name: "Idle no more",
+            link: "",
+            label: "idle-no-more",
+        },
     },
     {
-        meta: {name: "Union of concerned Scientists",}
+        meta: {
+            name: "Union of concerned Scientists",
+            link: "",
+            label: "union-of-concerned-scientists",
+        },
     },
     {
-        meta: {name: "Hambacher Forst",}
+        meta: {
+            name: "Hambacher Forst",
+            link: "",
+            label: "hambacher-forst",
+        },
     },
 ];
