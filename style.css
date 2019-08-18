@@ -13,9 +13,11 @@ th.internationality {
 th.resources {
     background-color: #fff0f0 !important;
 }
+
 th.reach {
     background-color: #f0ffff !important;
 }
+
 th.legislativeParticipation {
     background-color: #fff0ff !important;
 }
@@ -27,6 +29,17 @@ th.legislativeParticipation {
 
 table {
     border-collapse: collapse;
+}
+
+thead tr:first-child th,
+thead tr:nth-child(2) th {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+thead tr:nth-child(2) th {
+    top: 30px;
 }
 
 tbody tr:hover {
@@ -46,6 +59,7 @@ td p {
     min-width: 150px;
     font-size: 14px;
 }
+
 td ul {
     padding-left: 25px;
 }

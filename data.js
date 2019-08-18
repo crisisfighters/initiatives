@@ -6,7 +6,7 @@ const data = [
             label: "client-earth",
         },
         description: {
-            content: "ClientEarth is a charity that uses the power of the law to protect the planet and the people who live on it. We are lawyers and environmental experts who are fighting against climate change and to protect nature and the environment.",
+            content: "ClientEarth is a charity that uses the power of the law to protect the planet and the people who live on it. We are lawyers and environmental experts who are fighting against the climate crisis and to protect nature and the environment.",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         established: {
@@ -68,12 +68,12 @@ const data = [
     },
     {
         meta: {
-            name: "wwf",
+            name: "WWF",
             link: "http://wwf.panda.org/",
             label: "wwf",
         },
         description: {
-            content: "WWF is active since 1961 and therefore a well experienced player within the environmental engagement game. The biggest Pro on WWF is that it is well known and People trust the organization. They do not have a precise focus on the climate crises but there is also a focus on it. One of their goals for 2030 is to reduce greenhouse gas emissions by 40%.",
+            content: "The WWF is active since 1961 and therefore a well experienced player within the environmental engagement game. The biggest Pro on WWF is that it is well known and People trust the organization. They do not have a precise focus on the climate crises but there is also a focus on it. One of their goals for 2030 is to reduce greenhouse gas emissions by 40%.",
             updatedBy: "Andre", updatedAt: "2019-08-18"
         },
         established: {
