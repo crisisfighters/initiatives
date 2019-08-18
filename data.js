@@ -218,7 +218,7 @@ const data = [
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         employees: {
-            content: "78",
+            content: "[78] (https://www.climateworks.org/about-us/people/our-staff/)",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         actions: {
@@ -237,7 +237,7 @@ const data = [
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         established: {
-            content: "2008",
+            content: "[2008] (https://www.climateworks.org/response/)",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         kpis: {
@@ -252,9 +252,9 @@ const data = [
             updatedBy: "Alexander", updatedAt: "2019-08-18",
         },
         yearlyIncome: {
-            content: "- $ 100M in 2017" +
-                "\n- $ 50M in 2016" +
-                "\n- Says to have funneled $ 1B since 2008",
+            content: "- [$ 100M in 2017] (https://www.climateworks.org/wp-content/uploads/2019/03/ClimateWorks-Foundation-Public-Disclosure-Copy.pdf)" +
+                "\n- [$ 50M in 2016] (https://www.climateworks.org/wp-content/uploads/2019/03/ClimateWorks-Foundation-Public-Disclosure-Copy.pdf)" +
+                "\n- Says to have funneled ($ 1B since 2008) [https://www.climateworks.org]",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
     },
