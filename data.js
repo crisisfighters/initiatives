@@ -107,8 +107,12 @@ const data = [
     {
         meta: {
             name: "Sierra Club",
-            link: "",
+            link: "https://www.sierraclub.org/",
             label: "sierra-club",
+        },
+        established: {
+            content: "1892",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
     },
     {
