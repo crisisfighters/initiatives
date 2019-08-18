@@ -4,17 +4,9 @@ const fields = {
         title: 'Basics',
         children: {
             initiative: {title: 'Initiative'},
-            bio: {title: 'Bio'},
-            legalForm: {title: 'Legal Form'},
+            description: {title: 'Description'},
             established: {title: 'Established'},
             kpis: {title: 'KPIs'},
-        }
-    },
-    people: {
-        title: 'People',
-        children: {
-            employees: {title: 'Employees'},
-            members: {title: 'Members'},
         },
     },
     internationality: {
@@ -23,10 +15,19 @@ const fields = {
             activeCountries: {title: 'Active Countries'},
         },
     },
+    people: {
+        title: 'People',
+        children: {
+            employees: {title: 'Employees'},
+            participation: {title: 'Participation'},
+            // members, participants
+        },
+    },
     resources: {
         title: 'Resources',
         children: {
             yearlyIncome: {title: 'Yearly Income'},
+            // revenue, foerdermittel, spenden, sonstiges
         },
     },
     reach: {
@@ -36,12 +37,12 @@ const fields = {
             pressArticles: {title: 'Press Articles'},
         },
     },
-    legislativeParticipation: {
-        title: 'Legislative Participation',
-        children: {
-            lobbyistsRegistered: {title: 'Registered Lobbyists'},
-            billsDrafted: {title: 'Bills Drafted'},
-            billsEnacted: {title: 'Bills Enacted'},
-        },
-    },
+    // legislativeParticipation: {
+    //     title: 'Legislative Participation',
+    //     children: {
+    //         lobbyistsRegistered: {title: 'Registered Lobbyists'},
+    //         legislativeParticipation: {title: 'Participation'},
+    //         billsDrafted, Bills Enacted
+        // },
+    // },
 };
