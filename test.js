@@ -9,6 +9,7 @@ const assert = (b, msg) => {
     }
     assertions++;
 };
+
 assert(data.length > 5, 'expecting at least 5 initiatives');
 assert(Object.keys(fields).length > 3, 'expecting at least 3 groups');
 
