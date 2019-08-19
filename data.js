@@ -6,7 +6,7 @@ const data = [
             label: "client-earth",
         },
         description: {
-            content: "ClientEarth is a charity that uses the power of the law to protect the planet and the people who live on it. We are lawyers and environmental experts who are fighting against climate change and to protect nature and the environment.",
+            content: "ClientEarth is a charity that uses the power of the law to protect the planet and the people who live on it. We are lawyers and environmental experts who are fighting against the climate crisis and to protect nature and the environment.",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         established: {
@@ -68,12 +68,12 @@ const data = [
     },
     {
         meta: {
-            name: "wwf",            
+            name: "WWF",
             link: "http://wwf.panda.org/",
             label: "wwf",
         },
         description: {
-            content: "WWF is active since 1961 and therefore a well experienced player within the environmental engagement game. The biggest Pro on WWF is that it is well known and People trust the organization. They do not have a precise focus on the climate crises but there is also a focus on it. One of their goals for 2030 is to reduce greenhouse gas emissions by 40%.",
+            content: "The WWF is active since 1961 and therefore a well experienced player within the environmental engagement game. The biggest Pro on WWF is that it is well known and People trust the organization. They do not have a precise focus on the climate crises but there is also a focus on it. One of their goals for 2030 is to reduce greenhouse gas emissions by 40%.",
             updatedBy: "Andre", updatedAt: "2019-08-18"
         },
         established: {
@@ -88,23 +88,29 @@ const data = [
         activeCountries: {
             content: "[about 100 countries](http://wwf.panda.org/knowledge_hub/history/50_years_of_achievements/)",
             updatedBy: "Andre", updatedAt: "2019-08-18",
+        yearlyIncome: {
+            content: "- 752M € in [2018] (http://d2ouvy59p0dg6k.cloudfront.net/downloads/wwfintl_annualreview20182.pdf)" +
+                "\n- 145.9M € in [2013] (http://d2ouvy59p0dg6k.cloudfront.net/downloads/ar2013_v15_lr_1.pdf)",
+            updatedBy: "Andre", updatedAt: "2019-08-18"
         },
-        actions: {
-            content: "-",
-            updatedBy: "Andre", updatedAt: "2019-08-18",
-        },
-        pressArticles: {
-            content: "-",
-            updatedBy: "Andre", updatedAt: "2019-08-18",
-
-        },
-
     },
     {
         meta: {
-            name: "Greenpeace",
-            link: "",
+            name: "Greenpeace",            
+            link: "https://www.greenpeace.org/international/",
             label: "greenpeace",
+        },
+        description: {
+            content: "Greenpeace is another big player. They also do work on a big scale as you can see on the Income they have to put them into their projects. Greenpeace has a lot of Actions going on.",
+            updatedBy: "Andre", updatedAt: "2019-08-18"
+        },
+        established: {
+            content: "[1971](http://www.tiki-toki.com/timeline/entry/594418/Greenpeace/#vars!date=1942-02-09_13:52:01!)",
+            updatedBy: "Andre", updatedAt: "2019-08-06"
+        },
+        kpis: {
+            content: "- Actions done / pa \n- Participants in actions\n- Members\n- Press Mentions",
+            updatedBy: "Andre", updatedAt: "2019-08-06",
         },
     },
     {
@@ -138,8 +144,50 @@ const data = [
     {
         meta: {
             name: "Sierra Club",
-            link: "",
+            link: "https://www.sierraclub.org/",
             label: "sierra-club",
+        },
+        established: {
+            content: "1892",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        kpis: {
+            content: "unclear",
+            updatedBy: "Alexander", updatedAt: "2019-08-18",
+
+        },
+        description: {
+            content: "One of the oldest wildlife protection organization." +
+                "\n- Progressive liberal standpoint" +
+                "\n- Promotes and guides outdoor recreational activity" +
+                "\n- Lobbies, endorses political candidates",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        actions: {
+            content: "It's not clear from the [website](https://www.sierraclub.org/climate-and-energy) what exactly actions look like." +
+                "\n- [4,500 rallies and events] (https://www.sierraclub.org/about-sierra-club)",
+            updatedBy: "Alexander", updatedAt: "2019-08-18",
+
+        },
+        activeCountries: {
+            content: "USA (primarily) and Canada ([Sierra Club Canada](http://www.sierraclub.ca/))",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        yearlyIncome: {
+            content: "[$ 100M] (https://www.latimes.com/archives/la-xpm-2011-nov-19-la-me-sierra-club-20111119-story.html)",
+            updatedBy: "Alexander", updatedAt: "2011-11-19"
+        },
+        members: {
+            content: "[3.5+ M] (https://www.sierraclub.org/about-sierra-club)",
+            updatedBy: "Alexander", updatedAt: "2011-11-19"
+        },
+        employees: {
+            content: "[about 600] (https://www.latimes.com/archives/la-xpm-2011-nov-19-la-me-sierra-club-20111119-story.html)",
+            updatedBy: "Alexander", updatedAt: "2011-11-19"
+        },
+        participation: {
+            content: "[3M+ petition signatures] (https://www.sierraclub.org/about-sierra-club)",
+            updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
     },
     {
