@@ -1,4 +1,4 @@
-const data = [
+exports.data = [
     {
         meta: {
             name: "ClientEarth",
@@ -117,28 +117,28 @@ const data = [
     {
         meta: {
             name: "Ende Gelände",
-            link: "",
+            link: "https://www.ende-gelaende.org/",
             label: "ende-gelaende",
         },
     },
     {
         meta: {
             name: "CERES",
-            link: "",
+            link: "https://www.ceres.org/",
             label: "ceres",
         },
     },
     {
         meta: {
-            name: "World Ressource Institution",
-            link: "",
+            name: "World Resource Institution",
+            link: "https://www.wri.org/",
             label: "world-resource-institution",
         },
     },
     {
         meta: {
             name: "350.org",
-            link: "",
+            link: "https://350.org/",
             label: "350-org",
         },
     },
@@ -194,7 +194,7 @@ const data = [
     {
         meta: {
             name: "Idle no more",
-            link: "",
+            link: "http://www.idlenomore.ca/",
             label: "idle-no-more",
         },
     },
@@ -237,7 +237,7 @@ const data = [
     {
         meta: {
             name: "Hambacher Forst",
-            link: "",
+            link: "https://hambacherforst.org/",
             label: "hambacher-forst",
         },
     },
