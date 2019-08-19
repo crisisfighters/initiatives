@@ -44,12 +44,15 @@
 
 <hr/>
 <p>Made with 😀 and ❤️ on 🌏</p>
-
+<script>
+    // Allows node.js `require()`
+    const exports = {};
+</script>
 <script src="data.js"></script>
 <script src="fields.js"></script>
 <script>
 
-    (() => {
+    (({data, fields}) => {
 
         document.querySelector("#grid2 thead")
             .insertAdjacentHTML(
@@ -105,7 +108,7 @@
                     }</tr>`)
                     .join('\n')
             );
-    })();
+    })(exports);
 </script>
 </body>
 </html>
