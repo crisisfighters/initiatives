@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const {data} = require('./data');
 const {fields} = require('./fields');
 const assert = (b, msg) => {
