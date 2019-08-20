@@ -215,4 +215,55 @@ exports.data = [
             label: "hambacher-forst",
         },
     },
+    {
+        meta: {
+            name: "ClimateWorks",
+            link: "https://www.climateworks.org/",
+            label: "climate-works",
+        },
+        description: {
+            content: "The ClimateWorks foundation funnels philanthropy money to NGOs to help to fight the climate crisis.",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        employees: {
+            content: "[78] (https://www.climateworks.org/about-us/people/our-staff/)",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        actions: {
+            content: "Handed out 1500+ grants that can be explored in their online [grants database](https://www.climateworks.org/portfolios/grants-database/). " +
+                "There's considerable focus on technical solutions. Grants are given out in these areas:" +
+                "\n- Buildings & Industry" +
+                "\n- Carbon Dioxide Removal" +
+                "\n- Clean Power" +
+                "\n- Cooling" +
+                "\n- Forests & Land Use" +
+                "\n- International Engagement" +
+                "\n- Mission Investing" +
+                "\n- Non-CO2 Mitigation" +
+                "\n- Sustainable Finance" +
+                "\n- Transportation",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        established: {
+            content: "[2008] (https://www.climateworks.org/response/)",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        kpis: {
+            content: "- Money granted" +
+                "\n- Number of grants" +
+                "\n- Grantees",
+            updatedBy: "Alexander", updatedAt: "2019-08-18",
+
+        },
+        activeCountries: {
+            content: "Focus is in the US, grants are given globally.",
+            updatedBy: "Alexander", updatedAt: "2019-08-18",
+        },
+        yearlyIncome: {
+            content: "- [$ 100M in 2017] (https://www.climateworks.org/wp-content/uploads/2019/03/ClimateWorks-Foundation-Public-Disclosure-Copy.pdf)" +
+                "\n- [$ 50M in 2016] (https://www.climateworks.org/wp-content/uploads/2019/03/ClimateWorks-Foundation-Public-Disclosure-Copy.pdf)" +
+                "\n- Says to have funneled ($ 1B since 2008) [https://www.climateworks.org]",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+    },
 ];
