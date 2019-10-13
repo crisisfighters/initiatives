@@ -225,7 +225,7 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2018-11-30"
         },
         employees: {
-            content: "almost 250 scientists, analysts, policy and communication experts",
+            content: "[almost 250 scientists, analysts, policy and communication experts] (https://ucsusa.org/about)",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         participation: {
