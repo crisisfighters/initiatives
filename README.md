@@ -12,6 +12,5 @@ We want to make it as easy as possible to update the data of the initiatives in 
 
 ➡ Click the "Issues" tab on top of this page. Then click the green "New Issue" button on the top right.
 
-
 ### For Software Engineers
 If you're experienced software engineer, you can directly create a pull request for [data.js](data.js) (or any other file)

@@ -1,4 +1,4 @@
-const fields = {
+exports.fields = {
 
     basics: {
         title: 'Basics',
