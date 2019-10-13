@@ -219,7 +219,7 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2019-08-18",
         },
         yearlyIncome: {
-            content: "$ 40M" +
+            content: "[$ 37M] (https://ucsusa.org/about/funding-financials)" +
                 "\n\n72% membership & contributions" +
                 "\n\n22% foundations",
             updatedBy: "Alexander", updatedAt: "2018-11-30"
