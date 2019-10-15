@@ -88,15 +88,12 @@ exports.data = [
         activeCountries: {
             content: "[about 100 countries](http://wwf.panda.org/knowledge_hub/history/50_years_of_achievements/)",
             updatedBy: "Andre", updatedAt: "2019-08-18",
-
-
-            yearlyIncome: {
-                content: "- 752M € in [2018] (http://d2ouvy59p0dg6k.cloudfront.net/downloads/wwfintl_annualreview20182.pdf)" +
-                    "\n- 145.9M € in [2013] (http://d2ouvy59p0dg6k.cloudfront.net/downloads/ar2013_v15_lr_1.pdf)",
-                updatedBy: "Andre", updatedAt: "2019-08-18"
-            },
         },
-
+        yearlyIncome: {
+            content: "- 752M € in [2018] (http://d2ouvy59p0dg6k.cloudfront.net/downloads/wwfintl_annualreview20182.pdf)" +
+                "\n- 145.9M € in [2013] (http://d2ouvy59p0dg6k.cloudfront.net/downloads/ar2013_v15_lr_1.pdf)",
+            updatedBy: "Andre", updatedAt: "2019-08-18"
+        },
     },
     {
         meta: {
@@ -217,8 +214,37 @@ exports.data = [
     {
         meta: {
             name: "Union of concerned Scientists",
-            link: "https://ucsusa.org/",
-            label: "union-of-concerned-scientists",
+            link: "http://ucsusa.org/",
+            label: "ucs",
+        },
+        description: {
+            content: "The UCS is a group of scientists, engineers, economists, activists, and everyday people propagating using science to protect health, safety, and environment.",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        established: {
+            content: "1969",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        actions: {
+            content: "- Research & Studies" +
+                "\n- PR, lobbying" +
+                "\n- Supporting other NGOs (1,500+)",
+            updatedBy: "Alexander", updatedAt: "2019-08-18",
+        },
+        yearlyIncome: {
+            content: "[$ 37M] (https://ucsusa.org/about/funding-financials)" +
+                "\n\n72% membership & contributions" +
+                "\n\n22% foundations",
+            updatedBy: "Alexander", updatedAt: "2018-11-30"
+        },
+        employees: {
+            content: "[almost 250 scientists, analysts, policy and communication experts] (https://ucsusa.org/about)",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        participation: {
+            content: "- 200,000+ members" +
+                "\n- 500,000+ supporters",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
     },
     {
