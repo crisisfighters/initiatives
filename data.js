@@ -264,6 +264,5 @@ exports.data = [
                 "\n- [$ 50M in 2016] (https://www.climateworks.org/wp-content/uploads/2019/03/ClimateWorks-Foundation-Public-Disclosure-Copy.pdf)" +
                 "\n- Says to have funneled ($ 1B since 2008) [https://www.climateworks.org]",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
-        },
-    },
+        },    },
 ];
