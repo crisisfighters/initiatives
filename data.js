@@ -18,14 +18,15 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-08-18"
         },
         employees: {
-            content: "- [103 in 2017 \n- 43 in 2012](https://www.documents.clientearth.org/wp-content/uploads/library/2018-04-23-ten-years-of-clientearth-2007-to-2017-ce-en.pdf),",
+            content: "- [103 in 2017](https://www.documents.clientearth.org/wp-content/uploads/library/2018-04-23-ten-years-of-clientearth-2007-to-2017-ce-en.pdf)"+
+                "\n- [43 in 2012](https://www.documents.clientearth.org/wp-content/uploads/library/2018-04-23-ten-years-of-clientearth-2007-to-2017-ce-en.pdf)",
             updatedBy: "Andre", updatedAt: "2019-08-06"
         },
         yearlyIncome: {
             content: "[- 11.5M £ in 2017" +
                 "\n- 7.3M £ in 2016](https://www.documents.clientearth.org/wp-content/uploads/library/2017-12-31-clientearth-annual-accounts-ce-en.pdf)" +
-                "\n[- 3.3M £ in 2012" +
-                "\n- 2.6M £ in 2011](https://www.documents.clientearth.org/wp-content/uploads/library/2012-12-31-annual-report-accounts-ce-en.pdf)",
+                "\n[- 3.3M £ in 2012](https://www.documents.clientearth.org/wp-content/uploads/library/2012-12-31-annual-report-accounts-ce-en.pdf)" +
+                "\n- 2.6M £ in 2011",
             updatedBy: "Andre", updatedAt: "2019-08-18"
         },
 
