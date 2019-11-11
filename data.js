@@ -15,7 +15,7 @@ const data = [
         },
         activeCountries: {
             content: "Europe, China, Central & West Africa",
-            updatedBy: "Andre", updatedAt: "2019-08-18"
+            updatedBy: "Andre", updatedAt: "2019-08-18" 
         },
         employees: {
             content: "- 103 in 2017\n- 43 in 2012",
