@@ -88,7 +88,7 @@ exports.data = [
         activeCountries: {
             content: "[about 100 countries](http://wwf.panda.org/knowledge_hub/history/50_years_of_achievements/)",
             updatedBy: "Andre", updatedAt: "2019-08-18",
-
+        },
 
             yearlyIncome: {
                 content: "- 752M € in [2018] (http://d2ouvy59p0dg6k.cloudfront.net/downloads/wwfintl_annualreview20182.pdf)" +
@@ -96,8 +96,6 @@ exports.data = [
                 updatedBy: "Andre", updatedAt: "2019-08-18"
             },
         },
-
-    },
     {
         meta: {
             name: "Greenpeace",
@@ -136,12 +134,35 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-13",
         },
         actions: {
-            content: " ",
+            content: "They have summarized all their actions on wikipedia: \n -[2015](https://en.wikipedia.org/wiki/Ende_Gel%C3%A4nde_2016#Context) " +
+            "\n - [2016](https://en.wikipedia.org/wiki/Ende_Gel%C3%A4nde_2016#Context)" +
+             "\n - [2017](https://en.wikipedia.org/wiki/Ende_Gel%C3%A4nde_2017)" +
+             "\n - [2018](https://en.wikipedia.org/wiki/Ende_Gel%C3%A4nde_2018)" +
+            "\n - [2019](https://en.wikipedia.org/wiki/Ende_Gel%C3%A4nde_2019)",
+            updatedBy: "Andre", updatedAt: "2019-11-13",
+        },
+        activeCountries: {
+            content: "Based in Germany with some local groups in Belgium, Swiss, Austria, Italy, France, Sweden, Czech Republic and Netherlands",
             updatedBy: "Andre", updatedAt: "2019-11-13",
         },
         employees: {
-            content: "0 - just volunteers",
+            content: "0",
             updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        yearlyIncome: {
+            content: "no information",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        socialMedia: {
+            content: "[Facebook](https://www.facebook.com/BaggerStoppen/): 37.461" +
+                        "\n [Twitter](https://twitter.com/Ende__Gelaende): 32.800" +
+                        "\n [Instagram](https://www.instagram.com/ende__gelaende/): 30.938",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        pressArticles: {
+            content: "They have a [press section](https://www.ende-gelaende.org/en/pressreview/) with a lot of english and german press releases of media and of themself.",
+            updatedBy: "Andre", updatedAt: "2019-11-13",
+
         },
     },
     {
