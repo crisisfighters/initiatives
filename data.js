@@ -18,14 +18,15 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-08-18"
         },
         employees: {
-            content: "- [103 in 2017 \n- 43 in 2012](https://www.documents.clientearth.org/wp-content/uploads/library/2018-04-23-ten-years-of-clientearth-2007-to-2017-ce-en.pdf),",
+            content: "- [103 in 2017](https://www.documents.clientearth.org/wp-content/uploads/library/2018-04-23-ten-years-of-clientearth-2007-to-2017-ce-en.pdf)"+
+                "\n- [43 in 2012](https://www.documents.clientearth.org/wp-content/uploads/library/2018-04-23-ten-years-of-clientearth-2007-to-2017-ce-en.pdf)",
             updatedBy: "Andre", updatedAt: "2019-08-06"
         },
         yearlyIncome: {
             content: "[- 11.5M £ in 2017" +
-                "\n- 7.3M £ in 2016] (https://www.documents.clientearth.org/wp-content/uploads/library/2017-12-31-clientearth-annual-accounts-ce-en.pdf)" +
-                "\n[- 3.3M £ in 2012" +
-                "\n- 2.6M £ in 2011] (https://www.documents.clientearth.org/wp-content/uploads/library/2012-12-31-annual-report-accounts-ce-en.pdf)",
+                "\n- 7.3M £ in 2016](https://www.documents.clientearth.org/wp-content/uploads/library/2017-12-31-clientearth-annual-accounts-ce-en.pdf)" +
+                "\n[- 3.3M £ in 2012](https://www.documents.clientearth.org/wp-content/uploads/library/2012-12-31-annual-report-accounts-ce-en.pdf)" +
+                "\n- 2.6M £ in 2011",
             updatedBy: "Andre", updatedAt: "2019-08-18"
         },
 
@@ -90,8 +91,8 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-08-18",
         },
         yearlyIncome: {
-            content: "- 752M € in [2018] (http://d2ouvy59p0dg6k.cloudfront.net/downloads/wwfintl_annualreview20182.pdf)" +
-                "\n- 145.9M € in [2013] (http://d2ouvy59p0dg6k.cloudfront.net/downloads/ar2013_v15_lr_1.pdf)",
+            content: "- 752M € in [2018](http://d2ouvy59p0dg6k.cloudfront.net/downloads/wwfintl_annualreview20182.pdf)" +
+                "\n- 145.9M € in [2013](http://d2ouvy59p0dg6k.cloudfront.net/downloads/ar2013_v15_lr_1.pdf)",
             updatedBy: "Andre", updatedAt: "2019-08-18"
         },
     },
@@ -179,7 +180,7 @@ exports.data = [
         },
         actions: {
             content: "It's not clear from the [website](https://www.sierraclub.org/climate-and-energy) what exactly actions look like." +
-                "\n- [4,500 rallies and events] (https://www.sierraclub.org/about-sierra-club)",
+                "\n- [4,500 rallies and events](https://www.sierraclub.org/about-sierra-club)",
             updatedBy: "Alexander", updatedAt: "2019-08-18",
 
         },
@@ -188,7 +189,7 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         yearlyIncome: {
-            content: "[$ 100M] (https://www.latimes.com/archives/la-xpm-2011-nov-19-la-me-sierra-club-20111119-story.html)",
+            content: "[$ 100M](https://www.latimes.com/archives/la-xpm-2011-nov-19-la-me-sierra-club-20111119-story.html)",
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
         members: {
@@ -196,11 +197,11 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
         employees: {
-            content: "[about 600] (https://www.latimes.com/archives/la-xpm-2011-nov-19-la-me-sierra-club-20111119-story.html)",
+            content: "[about 600](https://www.latimes.com/archives/la-xpm-2011-nov-19-la-me-sierra-club-20111119-story.html)",
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
         participation: {
-            content: "[3M+ petition signatures] (https://www.sierraclub.org/about-sierra-club)",
+            content: "[3M+ petition signatures](https://www.sierraclub.org/about-sierra-club)",
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
     },
@@ -241,13 +242,13 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2019-08-18",
         },
         yearlyIncome: {
-            content: "[$ 37M] (https://ucsusa.org/about/funding-financials)" +
+            content: "[$ 37M](https://ucsusa.org/about/funding-financials)" +
                 "\n\n72% membership & contributions" +
                 "\n\n22% foundations",
             updatedBy: "Alexander", updatedAt: "2018-11-30"
         },
         employees: {
-            content: "[almost 250 scientists, analysts, policy and communication experts] (https://ucsusa.org/about)",
+            content: "[almost 250 scientists, analysts, policy and communication experts](https://ucsusa.org/about)",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         participation: {
@@ -314,7 +315,7 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         employees: {
-            content: "[78] (https://www.climateworks.org/about-us/people/our-staff/)",
+            content: "[78](https://www.climateworks.org/about-us/people/our-staff/)",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         actions: {
@@ -333,7 +334,7 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         established: {
-            content: "[2008] (https://www.climateworks.org/response/)",
+            content: "[2008](https://www.climateworks.org/response/)",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         kpis: {
@@ -348,10 +349,9 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2019-08-18",
         },
         yearlyIncome: {
-            content: "- [$ 100M in 2017] (https://www.climateworks.org/wp-content/uploads/2019/03/ClimateWorks-Foundation-Public-Disclosure-Copy.pdf)" +
-                "\n- [$ 50M in 2016] (https://www.climateworks.org/wp-content/uploads/2019/03/ClimateWorks-Foundation-Public-Disclosure-Copy.pdf)" +
-                "\n- Says to have funneled ($ 1B since 2008) [https://www.climateworks.org]",
+            content: "- [$ 100M in 2017](https://www.climateworks.org/wp-content/uploads/2019/03/ClimateWorks-Foundation-Public-Disclosure-Copy.pdf)" +
+                "\n- [$ 50M in 2016](https://www.climateworks.org/wp-content/uploads/2019/03/ClimateWorks-Foundation-Public-Disclosure-Copy.pdf)" +
+                "\n- Says to have funneled ($ 1B since 2008)[https://www.climateworks.org]",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
-        },
-    },
+        },    },
 ];
