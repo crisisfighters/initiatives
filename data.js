@@ -211,6 +211,15 @@ exports.data = [
             link: "http://www.idlenomore.ca/",
             label: "idle-no-more",
         },
+        
+    },
+    {
+        meta: {
+            name: "Earthjustice",
+            link: "https://earthjustice.org/",
+            label: "earthjustice",
+        },
+        
     },
     {
         meta: {
