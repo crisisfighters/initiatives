@@ -27,16 +27,16 @@ function renderInitiatives(tableId, {data, fields}) {
             }),
             {});
     const md = window.markdownit();
-    const render = (content, initiative) =>
+    const render = (value, initiative) =>
         `<td>${
-            content === undefined
+            value === undefined
                 ? '-'
-                : content.name && content.link
-                ? `<p><a href="${content.link}">${content.name}</a></p>`
-                : content.name
-                    ? content.name
-                    : `<span class="updated">${content.updatedBy} (<a href="https://github.com/extinctionfighters/initiatives/pulls?q=is%3Apr+label%3A${initiative.meta.label}">${content.updatedAt}</a>):</span>${
-                        md.render(content.content)
+                : value.name && value.link
+                ? `<p><a href="${value.link}">${value.name}</a></p>`
+                : value.name
+                    ? value.name
+                    : `<span class="updated">${value.updatedBy} (<a href="https://github.com/extinctionfighters/initiatives/pulls?q=is%3Apr+label%3A${initiative.meta.label}">${content.updatedAt}</a>):</span>${
+                        md.render(value.content)
                         }`
             }</td>`
     ;
