@@ -123,6 +123,26 @@ exports.data = [
             link: "https://www.ende-gelaende.org/",
             label: "ende-gelaende",
         },
+        established: {
+            content: "2015",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        description: {
+            content: "Ende Gelände is a low hierarchical organization formed in 2015. They focus on the topic of the coal mining within the wide spectrum of climate crisis. They have over 50 local branches in Germany and a few in other European countries. The focus of this organization is an annual event of civil disobedience, which till now every year took place in the coal major coal mining area of central Germany. In 2017 and 2019 they organized two of such events. They block structures or machineries of this industry like train tracks diggers. Events like lectures and demonstrations are also a tool of them. After 4 years of work they start to cooperate with a lot of other local and international organizations like Hambacher Forst, Limity jsme (CZ) and Code Roode (NL).",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        kpis: {
+            content: "- Actions done / pa \n- Press Mentions",
+            updatedBy: "Andre", updatedAt: "2019-11-13",
+        },
+        actions: {
+            content: " ",
+            updatedBy: "Andre", updatedAt: "2019-11-13",
+        },
+        employees: {
+            content: "0 - just volunteers",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
     },
     {
         meta: {
