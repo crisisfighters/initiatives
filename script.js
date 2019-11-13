@@ -35,7 +35,7 @@ function renderInitiatives(tableId, {data, fields}) {
                 ? `<p><a href="${value.link}">${value.name}</a></p>`
                 : value.name
                     ? value.name
-                    : `<span class="updated">${value.updatedBy} (<a href="https://github.com/extinctionfighters/initiatives/pulls?q=is%3Apr+label%3A${initiative.meta.label}">${content.updatedAt}</a>):</span>${
+                    : `<span class="updated">${value.updatedBy} (<a href="https://github.com/extinctionfighters/initiatives/pulls?q=is%3Apr+label%3A${initiative.meta.label}">${value.updatedAt}</a>):</span>${
                         md.render(value.content)
                         }`
             }</td>`

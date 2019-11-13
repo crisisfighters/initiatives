@@ -179,7 +179,7 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         actions: {
-            content: "It's not clear from the [website](https://www.sierraclub.org/climate-and-energy) what exactly actions look like." +
+            content: "It's [not clear what actions look like](https://www.sierraclub.org/climate-and-energy)." +
                 "\n- [4,500 rallies and events](https://www.sierraclub.org/about-sierra-club)",
             updatedBy: "Alexander", updatedAt: "2019-08-18",
 
@@ -193,7 +193,7 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
         members: {
-            content: "[3.5+ M] (https://www.sierraclub.org/about-sierra-club)",
+            content: "[3.5+ M](https://www.sierraclub.org/about-sierra-club)",
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
         employees: {
