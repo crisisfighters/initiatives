@@ -257,6 +257,13 @@ exports.data = [
     },
     {
         meta: {
+            name: "NRDC",
+            link: "https://www.nrdc.org/",
+            label: "nrdc",
+        },
+    },
+    {
+        meta: {
             name: "IPCC",
             link: "https://www.ipcc.ch/",
             label: "IPCC",
