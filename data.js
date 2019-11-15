@@ -130,6 +130,44 @@ exports.data = [
             link: "https://www.ceres.org/",
             label: "ceres",
         },
+        established: {
+            content: "1989",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        description: {
+            content: "CERES tackels the problem of climate crisis in a different way. They use their wide network of for- and non-profit organizations to change the way how big companies work.",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        kpis: {
+            content: "- coopating companies \n - events / pa \n - adopted strategies",
+            updatedBy: "Andre", updatedAt: "2019-11-13",
+        },
+        actions: {
+            content: "Launched the Global Reporting Initiative [(GRI)](https://en.wikipedia.org/wiki/Global_Reporting_Initiative). A controlling tool, which makes it easier for companies to find our their impact on climate change and other issues." +
+            "Lauchned and coordinates [Investor Network on Climate Risk](https://www.ceres.org/networks/ceres-investor-network). A network of insitutional inverstors, which manages 26 trillon $ in assests",
+            updatedBy: "Andre", updatedAt: "2019-11-13",
+        },
+        activeCountries: {
+            content: "[Headquarters](https://www.ceres.org/about-us) in USA but organizations all over the world are involved",
+            updatedBy: "Andre", updatedAt: "2019-11-13",
+        },
+        employees: {
+            content: "[107](https://www.ceres.org/annual-report/2018/ceres-numbers)",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        yearlyIncome: {
+            content: "[~$17 mio.](https://www.ceres.org/annual-report/2018/financials)",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        socialMedia: {
+            content: "",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        pressArticles: {
+            content: "",
+            updatedBy: "Andre", updatedAt: "2019-11-13",
+
+        },
     },
     {
         meta: {
