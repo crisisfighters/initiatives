@@ -434,5 +434,50 @@ exports.data = [
                 "\n- [$ 50M in 2016](https://www.climateworks.org/wp-content/uploads/2019/03/ClimateWorks-Foundation-Public-Disclosure-Copy.pdf)" +
                 "\n- Says to have funneled ($ 1B since 2008)[https://www.climateworks.org]",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
-        },    },
+        }, 
+       },
+       {
+        meta: {
+            name: "Fridays for Future",
+            link: "https://fridaysforfuture.org/",
+            label: "fridays-for-future",
+        },
+        description: {
+            content: "Fridays for future (FFF) might be the most known movement recently. Started with the individual protest of (Greta Tunberg)[https://en.wikipedia.org/wiki/Greta_Thunberg] in August 2018 thousands of pupils started to also skip school to protest for climate justice. Other groups like students or parents also started to protest. Now, everyone protest aside to the pupils. FFF addresses their message of climate justice mostly to world leaders, which in their opinion failed to provide a safe environment for future generations.",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },
+        established: {
+            content: "(2018)[https://fridaysforfuture.org/about]",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },   
+        kpis: {
+                content: "- Demonstrations / pa \n- Participants in Demonstrations \n- Press Mentions",
+                updatedBy: "Andre", updatedAt: "2019-11-24",
+        },
+        actions: {
+            content: "(School strikes)[https://fridaysforfuture.org/how] and local up to global demonstrations",
+            updatedBy: "Andre", updatedAt: "2019-11-24",
+        
+        activeCountries: {
+                content: "(222 Countries)[https://fridaysforfuture.org/statistics/graph]",
+                updatedBy: "Andre", updatedAt: "2019-11-24"
+            },
+        },
+        yearlyIncome: {
+            content: "no official information",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },
+        employees: {
+            content: "just volunteers",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },
+        participation: {
+            content: "4 million at the biggest (demonstration)[https://www.vox.com/energy-and-environment/2019/9/20/20876143/climate-strike-2019-september-20-crowd-estimate] on 2019-11-20.",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },
+        pressArticles: {
+            content: "there is no section for external press on the website.",
+            updatedBy: "Andre", updatedAt: "2019-11-24",
+        },
+    },
 ];
