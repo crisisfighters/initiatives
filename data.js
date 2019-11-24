@@ -219,7 +219,43 @@ exports.data = [
             link: "https://earthjustice.org/",
             label: "earthjustice",
         },
+        description: {
+            content: "Earth Justice is another environmental law organization. This US based organization not just consisting of lawyers but also of scientists, policy experts and research analysts. Major fields they are working in are protection of wildlife, clean energy and human health.",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },
+        established: {
+            content: "1971",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },   
+        kpis: {
+                content: " -Law Cases\n -Press Articles",
+                updatedBy: "Andre", updatedAt: "2019-11-24",
+        },
+        actions: {
+            content: "Most of the (work)[ https://earthjustice.org/our_work/victories] happens in the US. They stopped plans of building up more coal powerplants from the 1970s till today. (The roadless rule)[https://en.wikipedia.org/wiki/Roadless_area_conservation] in the US has been protected by Earth Justice since 1999. Pesticides and fungicides like (Vinclozolin)[https://en.wikipedia.org/wiki/Vinclozolin] or (methyl iodide)[https://en.wikipedia.org/wiki/Methyl_iodide#Toxicity_and_biological_effects] had been banned.",
+            updatedBy: "Andre", updatedAt: "2019-11-24",
         
+        activeCountries: {
+                content: "(USA)[https://earthjustice.org/about/contact]",
+                updatedBy: "Andre", updatedAt: "2019-11-24"
+            },
+        },
+        yearlyIncome: {
+            content: "(2018: ~90 mil $, 2017:~104 mil $)[https://view.publitas.com/earthjustice/2018-annual-report/page/11]",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },
+        employees: {
+            content: "(137)[https://earthjustice.org/about/staff]",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },
+        participation: {
+            content: "-",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },
+        pressArticles: {
+            content: "-",
+            updatedBy: "Andre", updatedAt: "2019-11-24",
+        },
     },
     {
         meta: {
