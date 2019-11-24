@@ -64,7 +64,6 @@ exports.data = [
         pressArticles: {
             content: "They have a [press section](https://rebellion.earth/press/). No structured assessment has happened yet.",
             updatedBy: "Alexander", updatedAt: "2019-08-18",
-
         },
     },
     {
@@ -262,6 +261,43 @@ exports.data = [
             name: "Hambacher Forst",
             link: "https://hambacherforst.org/",
             label: "hambacher-forst",
+        },
+        description: {
+            content: "In 2012 the first treehouse was built by anti-coal activists in the Hambacher Forest. The Forest itself got mostly already cut down and nearby villages had been sold and destroyed. It was the last little piece of forest one of the major four energy suppliers of Germany RWE was trying to cut down to dig more coal. Activists are still living within these structures. In 2018 evacuation began and forced a big public discussion about coal energy. In the end of 2018 german government decided on leaving the dying industry by 2038.",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },
+        established: {
+            content: "(2012)[https://hambachforest.org/squat/?noredirect=en_US]",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },   
+        kpis: {
+                content: "- Actions done / pa \n- Participants in actions\n- Press Mentions",
+                updatedBy: "Andre", updatedAt: "2019-11-24",
+        },
+        actions: {
+            content: "The forest had been occupied 365 days per year ever since. Common other (events)[https://hambachforest.org/blog/category/actions/] are Skillsharing Camps, Demonstrations, walks through the forest and a lot more.",
+            updatedBy: "Andre", updatedAt: "2019-11-24",
+        
+        activeCountries: {
+                content: "Mostly Germany but the community is quite international. They support other squatting activities within Germany like Ende Gelände or the occupation of (lusatian forest)[http://lautonomia.blogsport.eu/].",
+                updatedBy: "Andre", updatedAt: "2019-11-24"
+            },
+        },
+        yearlyIncome: {
+            content: "no official information",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },
+        employees: {
+            content: "just volunteers",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },
+        participation: {
+            content: "50.000 at the biggest (demonstration)[https://www.general-anzeiger-bonn.de/news/politik/deutschland/veranstalter-50000-demo-teilnehmer-am-hambacher-forst_aid-43923783] in 2018 near the forest",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
+        },
+        pressArticles: {
+            content: "there is no section for external press on the website.",
+            updatedBy: "Andre", updatedAt: "2019-11-24",
         },
     },
     {
