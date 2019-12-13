@@ -193,6 +193,35 @@ exports.data = [
             content: "Wikipedia: 350.org is an international environmental organization addressing the climate crisis. Its goal is to end the use of fossil fuels and transition to renewable energy by building a global, grassroots movement.[2] Safety and justice for people across the globe is a critical part of 350.org's mission. By working with local community groups, 350.org aims to hold corporations and world leaders accountable to the realities of science and the principles of social justice. ",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
+        
+        actions: {
+            content: "wide area of work \n- connection Induviduals. (1500 events created on their platform.)[https://350.org/2018-annual-report-organizing/]" +
+                                        "\n- online presence.(1.1 mil website visitors.)[https://350.org/2018-annual-report-organizing/]" +
+                                        "\n- campaigns run for example against the (Keystone XL Pipline)[https://www.nytimes.com/2015/11/07/us/obama-expected-to-reject-construction-of-keystone-xl-oil-pipeline.html]"+
+                                        "\n- trainings: (120K online trainings downloaded and 3400 courses taken)[https://350.org/2018-annual-report-organizing/].",
+            updatedBy: "Andre", updatedAt: "2019-12-11",
+
+        },
+        activeCountries: {
+            content: "global - Headquarter is in Oakland, California.",
+            updatedBy: "Andre", updatedAt: "2019-12-11",
+        },
+        yearlyIncome: {
+            content: "($19,037,488 in 2018)[https://350.org/2018-annual-report-financials/]",
+            updatedBy: "Andre", updatedAt: "2019-12-11",
+        },
+        members: {
+            content: "",
+            updatedBy: "Andre", updatedAt: "2019-12-11",
+        },
+        employees: {
+            content: "(164)[https://350.org/team/]",
+            updatedBy: "Andre", updatedAt: "2019-12-11",
+        },
+        participation: {
+            content: "They have local fossilfree groups and regional hubs on (all five continents.)[https://350.org/](160+ local groups in the US.)[https://350.org/2018-annual-report-organizing/]",
+            updatedBy: "Andre", updatedAt: "2019-12-11",
+        },
     },
     {
         meta: {
