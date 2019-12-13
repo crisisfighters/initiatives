@@ -222,6 +222,14 @@ exports.data = [
             content: "They have local fossilfree groups and regional hubs on (all five continents.)[https://350.org/](160+ local groups in the US.)[https://350.org/2018-annual-report-organizing/]",
             updatedBy: "Andre", updatedAt: "2019-12-11",
         },
+        pressArticles: {
+            content: "",
+            updatedBy: "Andre", updatedAt: "2019-12-11",
+        },
+        socialMedia: {
+            content: "-",
+            updatedBy: "Andre", updatedAt: "2019-12-11"
+},
     },
     {
         meta: {
