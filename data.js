@@ -362,4 +362,32 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
     },
+    {
+        meta: {
+            name: "CLimate Action Network",
+            link: "http://climatenetwork.org/",
+            label: "climate-action-network",
+        },
+        description: {
+            content: "The Climate Action Network (CAN) is an umbrella group of >1300 NGOs working on the climate crisis. It coordinates information exchange and NGO strategy between its members ",
+            updatedBy: "Alexander", updatedAt: "2019-12-21"
+        },
+        employees: {
+            content: "[22 members](http://climatenetwork.org/about/people) of the international secretariat.",
+            updatedBy: "Alexander", updatedAt: "2019-12-21"
+        },
+        actions: {
+            content: "CAN supports the collaboration between its members and publishes the" +
+                "\n- daily ECO newsletter during [United Nations Framework Convention on Climate Change](https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change) sessions",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
+        },
+        activeCountries: {
+            content: "Worldwide",
+            updatedBy: "Alexander", updatedAt: "2019-12-21",
+        },
+        yearlyIncome: {
+            content: "- [$ 1,846,334 in 2017](http://climatenetwork.org/sites/default/files/can_annual_report2017.pdf)",
+            updatedBy: "Alexander", updatedAt: "2019-12-21"
+        },
+    },
 ];
