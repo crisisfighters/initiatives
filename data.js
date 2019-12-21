@@ -435,8 +435,8 @@ exports.data = [
                 "\n- Says to have funneled ($ 1B since 2008)[https://www.climateworks.org]",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         }, 
-       },
-       {
+    },
+    {
         meta: {
             name: "Fridays for Future",
             link: "https://fridaysforfuture.org/",
