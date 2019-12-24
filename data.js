@@ -183,9 +183,9 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-13",
         },
         actions: {
-            content: "Launched the Global Reporting Initiative ([GRI](https://en.wikipedia.org/wiki/Global_Reporting_Initiative)). " +
-            "A controlling tool, which makes it easier for companies to find our their impact on climate change and other issues. " +
-            "Launched and coordinating the [Investor Network on Climate Risk](https://www.ceres.org/networks/ceres-investor-network). " +
+            content: "- Launched the Global Reporting Initiative ([GRI](https://en.wikipedia.org/wiki/Global_Reporting_Initiative)), " +
+            "a controlling tool, which makes it easier for companies to find our their impact on climate change and other issues. " +
+            "\n- Launched and coordinating the [Investor Network on Climate Risk](https://www.ceres.org/networks/ceres-investor-network). " +
             "A network of institutional investors, which manages $26 trillon in assests",
             updatedBy: "Andre", updatedAt: "2019-11-13",
         },
@@ -238,12 +238,12 @@ exports.data = [
         actions: {
             content: "wide area of work \n- connection individuals. [1,500 events created on their platform](https://350.org/2018-annual-report-organizing/)" +
                      "\n- online presence [1.1 million website visitors](https://350.org/2018-annual-report-organizing/)" +
-                     "\n- campaigns run for example against the [Keystone XL Pipline](https://www.nytimes.com/2015/11/07/us/obama-expected-to-reject-construction-of-keystone-xl-oil-pipeline.html)"+
-                     "\n- trainings: [120 thousand online trainings downloaded and 3,400 courses taken](https://350.org/2018-annual-report-organizing/)",
+                     "\n- Campaigns (e.g. against the [Keystone XL Pipeline](https://www.nytimes.com/2015/11/07/us/obama-expected-to-reject-construction-of-keystone-xl-oil-pipeline.html))"+
+                     "\n- trainings: [>120,000 online trainings downloaded and 3,400 courses taken](https://350.org/2018-annual-report-organizing/)",
             updatedBy: "Andre", updatedAt: "2019-12-11",
         },
         activeCountries: {
-            content: "global - Headquarter is in Oakland, California.",
+            content: "Global - headquartered in Oakland, California.",
             updatedBy: "Andre", updatedAt: "2019-12-11",
         },
         yearlyIncome: {
@@ -255,7 +255,7 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-12-11",
         },
         participation: {
-            content: "They have local fossilfree groups and regional hubs on [all five continents](https://350.org/](160+ local groups in the US.)[https://350.org/2018-annual-report-organizing/).",
+            content: "They have local fossil-free groups and regional hubs on [five continents](https://350.org/] (including [160+ local groups in the US](https://350.org/2018-annual-report-organizing/)).",
             updatedBy: "Andre", updatedAt: "2019-12-11",
         },
     },
@@ -296,7 +296,7 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
         members: {
-            content: "[3.5+ M](https://www.sierraclub.org/about-sierra-club)",
+            content: "[More than 3.5 million](https://www.sierraclub.org/about-sierra-club)",
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
         employees: {
@@ -304,7 +304,7 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
         participation: {
-            content: "[3M+ petition signatures](https://www.sierraclub.org/about-sierra-club)",
+            content: "[More than 3 million petition signatures](https://www.sierraclub.org/about-sierra-club)",
             updatedBy: "Alexander", updatedAt: "2011-11-19"
         },
     },
@@ -322,7 +322,9 @@ exports.data = [
             label: "earthjustice",
         },
         description: {
-            content: "Earth Justice is another environmental law organization. This US based organization not just consisting of lawyers but also of scientists, policy experts and research analysts. Major fields they are working in are protection of wildlife, clean energy and human health.",
+            content: "Earth Justice focuses on environmental law and litigation. " +
+            "Members of this US-based organization include lawyers, scientists, policy experts and research analysts. " +
+            "Key fields they are working in are protection of wildlife, clean energy and human health.",
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
         established: {
@@ -330,24 +332,27 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },   
         kpis: {
-                content: "- Court Cases\n- Press Articles",
+                content: "- Court cases\n- Press articles",
                 updatedBy: "Andre", updatedAt: "2019-11-24",
         },
         actions: {
-            content: "Most of the (work)[ https://earthjustice.org/our_work/victories] happens in the US. They stopped plans of building up more coal powerplants from the 1970s till today. (The roadless rule)[https://en.wikipedia.org/wiki/Roadless_area_conservation] in the US has been protected by Earth Justice since 1999. Pesticides and fungicides like (Vinclozolin)[https://en.wikipedia.org/wiki/Vinclozolin] or (methyl iodide)[https://en.wikipedia.org/wiki/Methyl_iodide#Toxicity_and_biological_effects] have been banned.",
+            content: "Most of the (work)[ https://earthjustice.org/our_work/victories] happens in the US. " +
+            "They stopped plans of building up more coal powerplants from the 1970s till today. " +
+            "[The roadless rule](https://en.wikipedia.org/wiki/Roadless_area_conservation] in the US has been protected by Earth Justice since 1999. " +
+            "Pesticides and fungicides like [Vinclozolin](https://en.wikipedia.org/wiki/Vinclozolin) or [methyl iodide](https://en.wikipedia.org/wiki/Methyl_iodide#Toxicity_and_biological_effects) have been banned.",
             updatedBy: "Andre", updatedAt: "2019-11-24",
         
         activeCountries: {
-                content: "(USA)[https://earthjustice.org/about/contact]",
+                content: "[USA](https://earthjustice.org/about/contact)",
                 updatedBy: "Andre", updatedAt: "2019-11-24"
             },
         },
         yearlyIncome: {
-            content: "(2018: ~ $90M, 2017: ~ $104M)[https://view.publitas.com/earthjustice/2018-annual-report/page/11]",
+            content: "[2018: ~ $90M, 2017: ~ $104M](https://view.publitas.com/earthjustice/2018-annual-report/page/11)",
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
         employees: {
-            content: "(137)[https://earthjustice.org/about/staff]",
+            content: "[137](https://earthjustice.org/about/staff)",
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
     },
@@ -398,19 +403,19 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
         established: {
-            content: "(2012)[https://hambachforest.org/squat/?noredirect=en_US]",
+            content: "[2012](https://hambachforest.org/squat/?noredirect=en_US)",
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },   
         kpis: {
-                content: "- Actions done / pa \n- Participants in actions\n- Press Mentions",
+                content: "- Actions done / pa \n- Participants in actions\n- Press mentions",
                 updatedBy: "Andre", updatedAt: "2019-11-24",
         },
         actions: {
-            content: "The forest had been occupied 365 days per year ever since. Common other (events)[https://hambachforest.org/blog/category/actions/] are Skillsharing Camps, Demonstrations, walks through the forest and a lot more.",
+            content: "The forest had been occupied 365 days per year ever since. Common other [events](https://hambachforest.org/blog/category/actions/) are Skillsharing Camps, Demonstrations, walks through the forest and a lot more.",
             updatedBy: "Andre", updatedAt: "2019-11-24",
         },
         activeCountries: {
-            content: "Mostly Germany but the community is quite international. They support other squatting activities within Germany like Ende Gelände or the occupation of (lusatian forest)[http://lautonomia.blogsport.eu/].",
+            content: "Mostly Germany but the community is quite international. They support other squatting activities within Germany like Ende Gelände or the occupation of [lusatian forest](http://lautonomia.blogsport.eu/).",
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
         yearlyIncome: {
@@ -422,7 +427,7 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
         participation: {
-            content: "50.000 at the biggest (demonstration)[https://www.general-anzeiger-bonn.de/news/politik/deutschland/veranstalter-50000-demo-teilnehmer-am-hambacher-forst_aid-43923783] in 2018 near the forest",
+            content: "50.000 at the biggest [demonstration](https://www.general-anzeiger-bonn.de/news/politik/deutschland/veranstalter-50000-demo-teilnehmer-am-hambacher-forst_aid-43923783) in 2018 near the forest",
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
     },
