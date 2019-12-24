@@ -362,4 +362,38 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
     },
+    {
+        meta: {
+            name: "Sunrise Movement",
+            link: "https://www.sunrisemovement.org/",
+            label: "sunrise",
+            keywords: ["grassroots", "us", "policy", "green new deal"], 
+        },
+        description: {
+            content: "To stop climate change and create jobs in the process, Sunrise advocates for a green new deal with the American public and the democratic party in particular",
+            updatedBy: "Alexander", updatedAt: "2019-12-24"
+        },
+        actions: {
+            content: "As of Winter 2019/2020 they're [organizing climate strikes](https://www.sunrisemovement.org/climatestrike)," +
+                "growing the movement itself and lobbying politicians. They're following these steps:" +
+                "\nSTAGE 1, 2017: Launch the movement." + 
+                "\nSTAGE 2, 2018: Make climate change matter in the midterm election." +
+                "\nSTAGE 3, 2019: Make the entire country feel the urgency of the crisis." +
+                "\nSTAGE 4, 2020: Win governing power by bringing it home through the 2020 general election." +
+                "\nSTAGE 5, 2021: Engage in mass noncooperation to interrupt business as usual and win a Green New Deal",
+            updatedBy: "Alexander", updatedAt: "2019-12-24"
+        },
+        established: {
+            content: "[2017](https://en.wikipedia.org/wiki/Sunrise_Movement)",
+            updatedBy: "Alexander", updatedAt: "2019-12-24"
+        },
+        activeCountries: {
+            content: "[US](https://en.wikipedia.org/wiki/Sunrise_Movement)",
+            updatedBy: "Alexander", updatedAt: "2019-12-24",
+        },
+        yearlyIncome: {
+            content: "Not discoles on their website",
+            updatedBy: "Alexander", updatedAt: "2019-12-24"
+        },
+    },
 ];
