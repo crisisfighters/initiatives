@@ -121,6 +121,49 @@ exports.data = [
             link: "https://www.ende-gelaende.org/",
             label: "ende-gelaende",
         },
+        established: {
+            content: "2015",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        description: {
+            content: "Ende Gelände is a low hierarchical organization formed in 2015. They focus on the topic of the coal mining within the wide spectrum of climate crisis. They have over 50 local branches in Germany and a few in other European countries. The focus of this organization is an annual event of civil disobedience, which till now every year took place in the coal major coal mining area of central Germany. In 2017 and 2019 they organized two of such events. They block structures or machineries of this industry like train tracks diggers. Events like lectures and demonstrations are also a tool of them. After 4 years of work they start to cooperate with a lot of other local and international organizations like Hambacher Forst, Limity jsme (CZ) and Code Roode (NL).",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        kpis: {
+            content: "- Actions done / pa \n- Press Mentions",
+            updatedBy: "Andre", updatedAt: "2019-11-13",
+        },
+        actions: {
+            content: "They have summarized all their actions on wikipedia: \n -[2015](https://en.wikipedia.org/wiki/Ende_Gel%C3%A4nde_2016#Context) " +
+            "\n - [2016](https://en.wikipedia.org/wiki/Ende_Gel%C3%A4nde_2016#Context)" +
+             "\n - [2017](https://en.wikipedia.org/wiki/Ende_Gel%C3%A4nde_2017)" +
+             "\n - [2018](https://en.wikipedia.org/wiki/Ende_Gel%C3%A4nde_2018)" +
+            "\n - [2019](https://en.wikipedia.org/wiki/Ende_Gel%C3%A4nde_2019)",
+            updatedBy: "Andre", updatedAt: "2019-11-13",
+        },
+        activeCountries: {
+            content: "Based in Germany with some local groups in Belgium, Swiss, Austria, Italy, France, Sweden, Czech Republic and Netherlands",
+            updatedBy: "Andre", updatedAt: "2019-11-13",
+        },
+        employees: {
+            content: "0",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        yearlyIncome: {
+            content: "no information",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        socialMedia: {
+            content: "[Facebook](https://www.facebook.com/BaggerStoppen/): 37.461" +
+                        "\n [Twitter](https://twitter.com/Ende__Gelaende): 32.800" +
+                        "\n [Instagram](https://www.instagram.com/ende__gelaende/): 30.938",
+            updatedBy: "Andre", updatedAt: "2019-11-13"
+        },
+        pressArticles: {
+            content: "They have a [press section](https://www.ende-gelaende.org/en/pressreview/) with a lot of english and german press releases of media and of themself.",
+            updatedBy: "Andre", updatedAt: "2019-11-13",
+
+        },
     },
     {
         meta: {
