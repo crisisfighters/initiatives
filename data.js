@@ -222,18 +222,21 @@ exports.data = [
             name: "350.org",
             link: "https://350.org/",
             label: "350-org",
+            keywords: ["grassroots", "trainings", "connecting initiatives"],
+        },
+        description: {
+            content: "350.org's goal is to end the use of fossil fuels and transition to renewable energy by building a global, grassroots movement. " +
+            "Safety and justice for people across the globe is a critical part of 350.org's mission. " +
+            "By working with local community groups, 350.org aims to hold corporations and world leaders accountable to the realities of science and the principles of social justice. ",
+            updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         established: {
             content: "2007",
             updatedBy: "Andre", updatedAt: "2019-10-04"
         },
         kpis: {
-            content: "- Actions done / pa \n- Participants in actions\n- Members\n- Press Mentions",
+            content: "- Actions done per year \n- Participants in actions\n- Members\n- Press mentions",
             updatedBy: "Alexander", updatedAt: "2019-10-04",
-        },
-        description: {
-            content: "Wikipedia: 350.org is an international environmental organization addressing the climate crisis. Its goal is to end the use of fossil fuels and transition to renewable energy by building a global, grassroots movement.[2] Safety and justice for people across the globe is a critical part of 350.org's mission. By working with local community groups, 350.org aims to hold corporations and world leaders accountable to the realities of science and the principles of social justice. ",
-            updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
         actions: {
             content: "wide area of work \n- connection individuals. [1,500 events created on their platform](https://350.org/2018-annual-report-organizing/)" +
@@ -407,7 +410,7 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },   
         kpis: {
-                content: "- Actions done / pa \n- Participants in actions\n- Press mentions",
+                content: "- Actions done per year \n- Participants in actions\n- Press mentions",
                 updatedBy: "Andre", updatedAt: "2019-11-24",
         },
         actions: {
@@ -415,7 +418,7 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-24",
         },
         activeCountries: {
-            content: "Mostly Germany but the community is quite international. They support other squatting activities within Germany like Ende Gelände or the occupation of [lusatian forest](http://lautonomia.blogsport.eu/).",
+            content: "Mostly Germany but the community is quite international. They support other squatting activities within Germany like Ende Gelände or the occupation of [Lusatian Forest (Lausitzer Braunkohlerevier)](http://lautonomia.blogsport.eu/).",
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
         yearlyIncome: {
@@ -427,7 +430,7 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
         participation: {
-            content: "50.000 at the biggest [demonstration](https://www.general-anzeiger-bonn.de/news/politik/deutschland/veranstalter-50000-demo-teilnehmer-am-hambacher-forst_aid-43923783) in 2018 near the forest",
+            content: "50,000 at the biggest [street protest](https://www.general-anzeiger-bonn.de/news/politik/deutschland/veranstalter-50000-demo-teilnehmer-am-hambacher-forst_aid-43923783) in 2018 near the forest",
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
     },
@@ -461,7 +464,7 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2019-12-24"
         },
         participation: {
-            content: "[195 countries](https://www.ipcc.ch/site/assets/uploads/2019/02/ipcc_members.pdf) are members of the IPCC.",
+            content: "[195 member countries](https://www.ipcc.ch/site/assets/uploads/2019/02/ipcc_members.pdf), [41 of them contributing financially](https://www.ipcc.ch/site/assets/uploads/2019/01/080320190344-Doc2-Budget.pdf).",
             updatedBy: "Andre", updatedAt: "2019-12-02"
         },
         actions: {
@@ -537,7 +540,7 @@ exports.data = [
         yearlyIncome: {
             content: "- [$ 100M in 2017](https://www.climateworks.org/wp-content/uploads/2019/03/ClimateWorks-Foundation-Public-Disclosure-Copy.pdf)" +
                 "\n- [$ 50M in 2016](https://www.climateworks.org/wp-content/uploads/2019/03/ClimateWorks-Foundation-Public-Disclosure-Copy.pdf)" +
-                "\n- Says to have funneled [$ 1B since 2008](https://www.climateworks.org)",
+                "\n- Funneled [$ 1B since 2008](https://www.climateworks.org)",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         }, 
     },
@@ -546,9 +549,12 @@ exports.data = [
             name: "Fridays for Future",
             link: "https://fridaysforfuture.org/",
             label: "fridays-for-future",
+            keywords: ["protests", "grassroots"],
         },
         description: {
-            content: "Fridays for future (FFF) might be the most known movement recently. Started with the individual protest of [Greta Tunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) in August 2018 thousands of pupils started to also skip school to protest for climate justice. Other groups like students or parents also started to protest. Now, everyone protest aside to the pupils. FFF addresses their message of climate justice mostly to world leaders, which in their opinion failed to provide a safe environment for future generations.",
+            content: "Friday for Future (FFF) started with the individual protest of [Greta Tunberg](https://en.wikipedia.org/wiki/Greta_Thunberg). " +
+            "In August 2018 thousands of pupils started to also skip school to protest for climate justice. " + 
+            "Other groups like students or parents also joined the protests. FFF wants to push world leaders to provide a safe environment for future generations.",
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
         established: {
@@ -556,15 +562,15 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },   
         kpis: {
-            content: "- Demonstrations / pa \n- Participants in Demonstrations \n- Press Mentions",
+            content: "- Street protests per year \n- Participants in protests \n- Press mentions",
             updatedBy: "Andre", updatedAt: "2019-11-24",
         },
         actions: {
-            content: "[School strikes](https://fridaysforfuture.org/how) and local up to global demonstrations. Members ",
+            content: "[School strikes](https://fridaysforfuture.org/how), local and global protests.",
             updatedBy: "Andre", updatedAt: "2019-11-24",
         },
         activeCountries: {
-            content: "[222 Countries](https://fridaysforfuture.org/statistics/graph)",
+            content: "[222 countries](https://fridaysforfuture.org/statistics/graph)",
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
         yearlyIncome: {
