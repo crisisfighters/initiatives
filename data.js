@@ -29,7 +29,6 @@ exports.data = [
                 "\n- [2.6M £ in 2011](https://www.documents.clientearth.org/wp-content/uploads/library/2017-12-31-clientearth-annual-accounts-ce-en.pdf)",
             updatedBy: "Andre", updatedAt: "2019-08-18"
         },
-
     },
     {
         meta: {
@@ -118,6 +117,7 @@ exports.data = [
         meta: {
             name: "Ende Gelände",
             link: "https://www.ende-gelaende.org/",
+            keywords: ["coal", "europe", "germany", "grassroots", "civil disobedience"],
             label: "ende-gelaende",
         },
         established: {
@@ -125,11 +125,16 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-13"
         },
         description: {
-            content: "Ende Gelände is a low hierarchical organization formed in 2015. They focus on the topic of the coal mining within the wide spectrum of climate crisis. They have over 50 local branches in Germany and a few in other European countries. The focus of this organization is an annual event of civil disobedience, which till now every year took place in the coal major coal mining area of central Germany. In 2017 and 2019 they organized two of such events. They block structures or machineries of this industry like train tracks diggers. Events like lectures and demonstrations are also a tool of them. After 4 years of work they start to cooperate with a lot of other local and international organizations like Hambacher Forst, Limity jsme (CZ) and Code Roode (NL).",
+            content: "Ende Gelände is an organization with very flat hierarchies and was formed in 2015. They focus on stopping coal mining to mitigate the climate crisis. " +
+            "They have over 50 local branches in Germany and a few in other European countries. " + 
+            "They organize an annual event of civil disobedience, which till now every year took place in the major coal mining area of central Germany. " +
+            "In 2017 and 2019 they organized two of such events. They block structures or machineries of this industry like train tracks diggers. " +
+            "Other actions include lectures and demonstrations. " +
+            "Since 2018 Ende Gelände engages on a European level, cooperating with organizations like [Hambacher Forst (DE)](https://hambacherforst.org/), [Limity Jsme My (CZ)](https://limityjsmemy.cz/en/) and Code Roode (NL).",
             updatedBy: "Andre", updatedAt: "2019-11-13"
         },
         kpis: {
-            content: "- Actions done / pa \n- Press Mentions",
+            content: "- Actions done per yer \n- Press Mentions",
             updatedBy: "Andre", updatedAt: "2019-11-13",
         },
         actions: {
@@ -145,11 +150,7 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-13",
         },
         employees: {
-            content: "0",
-            updatedBy: "Andre", updatedAt: "2019-11-13"
-        },
-        yearlyIncome: {
-            content: "no information",
+            content: "None",
             updatedBy: "Andre", updatedAt: "2019-11-13"
         },
         socialMedia: {
@@ -161,7 +162,6 @@ exports.data = [
         pressArticles: {
             content: "They have a [press section](https://www.ende-gelaende.org/en/pressreview/) with a lot of english and german press releases of media and of themself.",
             updatedBy: "Andre", updatedAt: "2019-11-13",
-
         },
     },
     {
@@ -175,20 +175,22 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-13"
         },
         description: {
-            content: "CERES tackels the problem of climate crisis in a different way. They use their wide network of for- and non-profit organizations to change the way how big companies work.",
+            content: "CERES tackles the problem of climate crisis in a different way. They use their wide network of for- and non-profit organizations to change the way how big companies work.",
             updatedBy: "Andre", updatedAt: "2019-11-13"
         },
         kpis: {
-            content: "- coopating companies \n - events / pa \n - adopted strategies",
+            content: "- cooperating companies \n- events per year \n- adopted strategies",
             updatedBy: "Andre", updatedAt: "2019-11-13",
         },
         actions: {
-            content: "Launched the Global Reporting Initiative [(GRI)](https://en.wikipedia.org/wiki/Global_Reporting_Initiative). A controlling tool, which makes it easier for companies to find our their impact on climate change and other issues." +
-            "Lauchned and coordinates [Investor Network on Climate Risk](https://www.ceres.org/networks/ceres-investor-network). A network of insitutional inverstors, which manages 26 trillon $ in assests",
+            content: "Launched the Global Reporting Initiative ([GRI](https://en.wikipedia.org/wiki/Global_Reporting_Initiative)). " +
+            "A controlling tool, which makes it easier for companies to find our their impact on climate change and other issues. " +
+            "Launched and coordinating the [Investor Network on Climate Risk](https://www.ceres.org/networks/ceres-investor-network). " +
+            "A network of institutional investors, which manages $26 trillon in assests",
             updatedBy: "Andre", updatedAt: "2019-11-13",
         },
         activeCountries: {
-            content: "[Headquarters](https://www.ceres.org/about-us) in USA but organizations all over the world are involved",
+            content: "[Headquarters](https://www.ceres.org/about-us) in the US but organizations all over the world are involved",
             updatedBy: "Andre", updatedAt: "2019-11-13",
         },
         employees: {
@@ -196,17 +198,8 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-13"
         },
         yearlyIncome: {
-            content: "[~$17 mio.](https://www.ceres.org/annual-report/2018/financials)",
+            content: "[~$17M](https://www.ceres.org/annual-report/2018/financials)",
             updatedBy: "Andre", updatedAt: "2019-11-13"
-        },
-        socialMedia: {
-            content: "",
-            updatedBy: "Andre", updatedAt: "2019-11-13"
-        },
-        pressArticles: {
-            content: "",
-            updatedBy: "Andre", updatedAt: "2019-11-13",
-
         },
     },
     {
@@ -214,6 +207,14 @@ exports.data = [
             name: "World Resource Institution",
             link: "https://www.wri.org/",
             label: "world-resource-institution",
+        },
+    },
+    {
+        meta: {
+            name: "Limity Jsme My",
+            link: "https://limityjsmemy.cz/en/",
+            keywords: ["coal", "czech republic", "grassroots", "civil disobedience"],
+            label: "limity-jsme-my",
         },
     },
     {
@@ -229,49 +230,34 @@ exports.data = [
         kpis: {
             content: "- Actions done / pa \n- Participants in actions\n- Members\n- Press Mentions",
             updatedBy: "Alexander", updatedAt: "2019-10-04",
-
         },
         description: {
             content: "Wikipedia: 350.org is an international environmental organization addressing the climate crisis. Its goal is to end the use of fossil fuels and transition to renewable energy by building a global, grassroots movement.[2] Safety and justice for people across the globe is a critical part of 350.org's mission. By working with local community groups, 350.org aims to hold corporations and world leaders accountable to the realities of science and the principles of social justice. ",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
-        
         actions: {
-            content: "wide area of work \n- connection Induviduals. (1500 events created on their platform.)[https://350.org/2018-annual-report-organizing/]" +
-                                        "\n- online presence.(1.1 mil website visitors.)[https://350.org/2018-annual-report-organizing/]" +
-                                        "\n- campaigns run for example against the (Keystone XL Pipline)[https://www.nytimes.com/2015/11/07/us/obama-expected-to-reject-construction-of-keystone-xl-oil-pipeline.html]"+
-                                        "\n- trainings: (120K online trainings downloaded and 3400 courses taken)[https://350.org/2018-annual-report-organizing/].",
+            content: "wide area of work \n- connection individuals. [1,500 events created on their platform](https://350.org/2018-annual-report-organizing/)" +
+                     "\n- online presence [1.1 million website visitors](https://350.org/2018-annual-report-organizing/)" +
+                     "\n- campaigns run for example against the [Keystone XL Pipline](https://www.nytimes.com/2015/11/07/us/obama-expected-to-reject-construction-of-keystone-xl-oil-pipeline.html)"+
+                     "\n- trainings: [120 thousand online trainings downloaded and 3,400 courses taken](https://350.org/2018-annual-report-organizing/)",
             updatedBy: "Andre", updatedAt: "2019-12-11",
-
         },
         activeCountries: {
             content: "global - Headquarter is in Oakland, California.",
             updatedBy: "Andre", updatedAt: "2019-12-11",
         },
         yearlyIncome: {
-            content: "($19,037,488 in 2018)[https://350.org/2018-annual-report-financials/]",
-            updatedBy: "Andre", updatedAt: "2019-12-11",
-        },
-        members: {
-            content: "",
+            content: "[$19,037,488 in 2018](https://350.org/2018-annual-report-financials/)",
             updatedBy: "Andre", updatedAt: "2019-12-11",
         },
         employees: {
-            content: "(164)[https://350.org/team/]",
+            content: "[164](https://350.org/team/)",
             updatedBy: "Andre", updatedAt: "2019-12-11",
         },
         participation: {
-            content: "They have local fossilfree groups and regional hubs on (all five continents.)[https://350.org/](160+ local groups in the US.)[https://350.org/2018-annual-report-organizing/]",
+            content: "They have local fossilfree groups and regional hubs on [all five continents](https://350.org/](160+ local groups in the US.)[https://350.org/2018-annual-report-organizing/).",
             updatedBy: "Andre", updatedAt: "2019-12-11",
         },
-        pressArticles: {
-            content: "",
-            updatedBy: "Andre", updatedAt: "2019-12-11",
-        },
-        socialMedia: {
-            content: "-",
-            updatedBy: "Andre", updatedAt: "2019-12-11"
-},
     },
     {
         meta: {
@@ -327,8 +313,7 @@ exports.data = [
             name: "Idle no more",
             link: "http://www.idlenomore.ca/",
             label: "idle-no-more",
-        },
-        
+        },  
     },
     {
         meta: {
@@ -345,11 +330,11 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },   
         kpis: {
-                content: " -Law Cases\n -Press Articles",
+                content: "- Court Cases\n- Press Articles",
                 updatedBy: "Andre", updatedAt: "2019-11-24",
         },
         actions: {
-            content: "Most of the (work)[ https://earthjustice.org/our_work/victories] happens in the US. They stopped plans of building up more coal powerplants from the 1970s till today. (The roadless rule)[https://en.wikipedia.org/wiki/Roadless_area_conservation] in the US has been protected by Earth Justice since 1999. Pesticides and fungicides like (Vinclozolin)[https://en.wikipedia.org/wiki/Vinclozolin] or (methyl iodide)[https://en.wikipedia.org/wiki/Methyl_iodide#Toxicity_and_biological_effects] had been banned.",
+            content: "Most of the (work)[ https://earthjustice.org/our_work/victories] happens in the US. They stopped plans of building up more coal powerplants from the 1970s till today. (The roadless rule)[https://en.wikipedia.org/wiki/Roadless_area_conservation] in the US has been protected by Earth Justice since 1999. Pesticides and fungicides like (Vinclozolin)[https://en.wikipedia.org/wiki/Vinclozolin] or (methyl iodide)[https://en.wikipedia.org/wiki/Methyl_iodide#Toxicity_and_biological_effects] have been banned.",
             updatedBy: "Andre", updatedAt: "2019-11-24",
         
         activeCountries: {
@@ -358,20 +343,12 @@ exports.data = [
             },
         },
         yearlyIncome: {
-            content: "(2018: ~90 mil $, 2017:~104 mil $)[https://view.publitas.com/earthjustice/2018-annual-report/page/11]",
+            content: "(2018: ~ $90M, 2017: ~ $104M)[https://view.publitas.com/earthjustice/2018-annual-report/page/11]",
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
         employees: {
             content: "(137)[https://earthjustice.org/about/staff]",
             updatedBy: "Andre", updatedAt: "2019-11-24"
-        },
-        participation: {
-            content: "-",
-            updatedBy: "Andre", updatedAt: "2019-11-24"
-        },
-        pressArticles: {
-            content: "-",
-            updatedBy: "Andre", updatedAt: "2019-11-24",
         },
     },
     {
@@ -431,11 +408,10 @@ exports.data = [
         actions: {
             content: "The forest had been occupied 365 days per year ever since. Common other (events)[https://hambachforest.org/blog/category/actions/] are Skillsharing Camps, Demonstrations, walks through the forest and a lot more.",
             updatedBy: "Andre", updatedAt: "2019-11-24",
-        
+        },
         activeCountries: {
-                content: "Mostly Germany but the community is quite international. They support other squatting activities within Germany like Ende Gelände or the occupation of (lusatian forest)[http://lautonomia.blogsport.eu/].",
-                updatedBy: "Andre", updatedAt: "2019-11-24"
-            },
+            content: "Mostly Germany but the community is quite international. They support other squatting activities within Germany like Ende Gelände or the occupation of (lusatian forest)[http://lautonomia.blogsport.eu/].",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
         },
         yearlyIncome: {
             content: "no official information",
@@ -448,10 +424,6 @@ exports.data = [
         participation: {
             content: "50.000 at the biggest (demonstration)[https://www.general-anzeiger-bonn.de/news/politik/deutschland/veranstalter-50000-demo-teilnehmer-am-hambacher-forst_aid-43923783] in 2018 near the forest",
             updatedBy: "Andre", updatedAt: "2019-11-24"
-        },
-        pressArticles: {
-            content: "there is no section for external press on the website.",
-            updatedBy: "Andre", updatedAt: "2019-11-24",
         },
     },
     {
@@ -466,50 +438,34 @@ exports.data = [
             name: "IPCC",
             link: "https://www.ipcc.ch/",
             label: "IPCC",
-            },
-            established: {
-                content: "(1988 by WMO & UN)[https://www.ipcc.ch/about/]",
-                updatedBy: "Andre", updatedAt: "2019-12-03"
-            },
-            kpis: {
-                content: "- People reached \n- Quotations \n- Press articles",
-                updatedBy: "Andre", updatedAt: "2019-12-03",
-    
-            },
-            description: {
-                content: "The Intergovernmental Panel for climate change has the mission to provide scientific assessments reports on climate change impacts, future risks, adaption and mitigation options. The reports published by the IPCC, written by leading scientists who volunteer their time and expertise as authors and reviewers of the reports, are the most reliable source of information on climate change.",
-                updatedBy: "Andre", updatedAt: "2019-10-04"
-          },
-          activeCountries: {
-                content: "All reports are (online)[https://www.ipcc.ch/reports/] and for that can be used all over the world.",
-                updatedBy: "Andre", updatedAt: "2019-12-02",
         },
-            yearlyIncome: {
-                content: "($ 13.7 Bil.)[https://www.ipcc.ch/site/assets/uploads/2019/01/080320190344-Doc2-Budget.pdf]",
-                updatedBy: "Andre", updatedAt: "2019-12-02"
-         },
-             employees: {
-                content: "unclear",
-                updatedBy: "Andre", updatedAt: "2019-12-02"
-         },
-            participation: {
-                content: "(195 countries)[https://www.ipcc.ch/site/assets/uploads/2019/02/ipcc_members.pdf] are members of the IPCC.",
-                updatedBy: "Andre", updatedAt: "2019-12-02"
-            },
-            actions: {
-                content: "\n- provide globaly most acknowlable scientific reports for a founded fight against climate change "+
-                         "\n- shared the nobel prize (2007)[https://www.ipcc.ch/site/assets/uploads/2018/04/FS_timeline.pdf] with Al Gore",
-                updatedBy: "Andre", updatedAt: "2019-12-02"
+        established: {
+            content: "[1988 by WMO & UN](https://www.ipcc.ch/about/)",
+            updatedBy: "Andre", updatedAt: "2019-12-03"
+        },
+        kpis: {
+            content: "- People reached \n- Quotations \n- Press articles",
+            updatedBy: "Andre", updatedAt: "2019-12-03",
+        },
+        description: {
+            content: "The Intergovernmental Panel for climate change has the mission to provide scientific assessments reports on climate change impacts, future risks, adaption and mitigation options. The reports published by the IPCC, written by leading scientists who volunteer their time and expertise as authors and reviewers of the reports, are the most reliable source of information on climate change.",
+            updatedBy: "Andre", updatedAt: "2019-10-04"
+        },
+        yearlyIncome: {
+            content: "[8,123,056 CHF](https://www.ipcc.ch/site/assets/uploads/2019/01/080320190344-Doc2-Budget.pdf)",
+            updatedBy: "Alexander", updatedAt: "2019-12-24"
+        },
+        participation: {
+            content: "[195 countries](https://www.ipcc.ch/site/assets/uploads/2019/02/ipcc_members.pdf) are members of the IPCC.",
+            updatedBy: "Andre", updatedAt: "2019-12-02"
+        },
+        actions: {
+            content: "\n- They provide scientific reports to base the fight against the climate crisis on the most accurate available science"+
+                     "\n- The IPCC and Al Gore were awarded the [Nobel Peace Prize 2007](https://www.ipcc.ch/site/assets/uploads/2018/04/FS_timeline.pdf)",
+            updatedBy: "Andre", updatedAt: "2019-12-02"
        },
-           pressArticles: {
-                content: "-",
-                updatedBy: "Andre", updatedAt: "2019-12-03",
-
-            socialMedia: {
-                content: "-",
-                updatedBy: "Andre", updatedAt: "2019-12-03"
     },
-},
+    {
         meta: {
             name: "Green Climate Fund",
             link: "https://www.greenclimate.fund/home",
@@ -525,7 +481,7 @@ exports.data = [
 
         },
         description: {
-            content: "GCF helps developing countries limit or reduce their greenhouse gas (GHG) emissions and adapt to climate change by supporting climate friendly projects. It was set up by the 194 countries who are parties to the United Nations Framework Convention on Climate Change (UNFCCC) in 2010, as part of the Convention’s financial mechanism. GCF launched its initial resource mobilization in 2014, and rapidly gathered pledges worth USD 10.3 billion. These funds come mainly from developed countries, but also from some developing countries, regions, and one city (Paris).",
+            content: "The GCF helps developing countries limit or reduce their greenhouse gas (GHG) emissions and adapt to climate change by supporting climate friendly projects. It was set up by the 194 countries who are parties to the United Nations Framework Convention on Climate Change (UNFCCC) in 2010, as part of the Convention’s financial mechanism. GCF launched its initial resource mobilization in 2014, and rapidly gathered pledges worth USD 10.3 billion. These funds come mainly from developed countries, but also from some developing countries, regions, and one city (Paris).",
             updatedBy: "Andre", updatedAt: "2019-10-04"
         },
     },
@@ -576,7 +532,7 @@ exports.data = [
         yearlyIncome: {
             content: "- [$ 100M in 2017](https://www.climateworks.org/wp-content/uploads/2019/03/ClimateWorks-Foundation-Public-Disclosure-Copy.pdf)" +
                 "\n- [$ 50M in 2016](https://www.climateworks.org/wp-content/uploads/2019/03/ClimateWorks-Foundation-Public-Disclosure-Copy.pdf)" +
-                "\n- Says to have funneled ($ 1B since 2008)[https://www.climateworks.org]",
+                "\n- Says to have funneled [$ 1B since 2008](https://www.climateworks.org)",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         }, 
     },
@@ -587,25 +543,24 @@ exports.data = [
             label: "fridays-for-future",
         },
         description: {
-            content: "Fridays for future (FFF) might be the most known movement recently. Started with the individual protest of (Greta Tunberg)[https://en.wikipedia.org/wiki/Greta_Thunberg] in August 2018 thousands of pupils started to also skip school to protest for climate justice. Other groups like students or parents also started to protest. Now, everyone protest aside to the pupils. FFF addresses their message of climate justice mostly to world leaders, which in their opinion failed to provide a safe environment for future generations.",
+            content: "Fridays for future (FFF) might be the most known movement recently. Started with the individual protest of [Greta Tunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) in August 2018 thousands of pupils started to also skip school to protest for climate justice. Other groups like students or parents also started to protest. Now, everyone protest aside to the pupils. FFF addresses their message of climate justice mostly to world leaders, which in their opinion failed to provide a safe environment for future generations.",
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
         established: {
-            content: "(2018)[https://fridaysforfuture.org/about]",
+            content: "[2018](https://fridaysforfuture.org/about)",
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },   
         kpis: {
-                content: "- Demonstrations / pa \n- Participants in Demonstrations \n- Press Mentions",
-                updatedBy: "Andre", updatedAt: "2019-11-24",
+            content: "- Demonstrations / pa \n- Participants in Demonstrations \n- Press Mentions",
+            updatedBy: "Andre", updatedAt: "2019-11-24",
         },
         actions: {
-            content: "(School strikes)[https://fridaysforfuture.org/how] and local up to global demonstrations. Members ",
+            content: "[School strikes](https://fridaysforfuture.org/how) and local up to global demonstrations. Members ",
             updatedBy: "Andre", updatedAt: "2019-11-24",
-        
+        },
         activeCountries: {
-                content: "(222 Countries)[https://fridaysforfuture.org/statistics/graph]",
-                updatedBy: "Andre", updatedAt: "2019-11-24"
-            },
+            content: "[222 Countries](https://fridaysforfuture.org/statistics/graph)",
+            updatedBy: "Andre", updatedAt: "2019-11-24"
         },
         yearlyIncome: {
             content: "no official information",
@@ -616,12 +571,8 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-24"
         },
         participation: {
-            content: "4 million at the biggest (demonstration)[https://www.vox.com/energy-and-environment/2019/9/20/20876143/climate-strike-2019-september-20-crowd-estimate] on 2019-11-20.",
+            content: "4 million people at the biggest [street protest](https://www.vox.com/energy-and-environment/2019/9/20/20876143/climate-strike-2019-september-20-crowd-estimate) on 2019-11-20.",
             updatedBy: "Andre", updatedAt: "2019-11-24"
-        },
-        pressArticles: {
-            content: "there is no section for external press on the website.",
-            updatedBy: "Andre", updatedAt: "2019-11-24",
         },
     },
 ];
