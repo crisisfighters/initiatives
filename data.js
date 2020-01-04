@@ -190,8 +190,8 @@ exports.data = [
 
         },
         description: {
-            content: "Wikipedia: 350.org is an international environmental organization addressing the climate crisis. Its goal is to end the use of fossil fuels and transition to renewable energy by building a global, grassroots movement.[2] Safety and justice for people across the globe is a critical part of 350.org's mission. By working with local community groups, 350.org aims to hold corporations and world leaders accountable to the realities of science and the principles of social justice. ",
-            updatedBy: "Alexander", updatedAt: "2019-08-18"
+            content: "350.org has the goal to end the use of fossil fuels and the transition to renewable energy by building a global, grassroots movement. Therefore they connect with other NGOs like Friday's for Future and work with local community groups. The 350 in the name stands for 350 part per million carbon dioxide, which was the safe upper level of CO2 to avoid a drastic changes within our climate system.",
+            updatedBy: "Andre", updatedAt: "2019-12-18"
         },
         
         actions: {
