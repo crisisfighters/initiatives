@@ -695,4 +695,48 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2019-12-21"
         },
     },
+    {
+        meta: {
+            name: "Urgewald",
+            link: "https://www.urgewald.org",
+            label: "urgewald",
+        },
+        description: {
+            content: "Urgewald campaigns corporations and politicians for divestment from fossil resources, weapons and projects endangering human rights. The ask shareholders of companies to delegate their right to speak at annual general meetings to them to speak up for their concerns.",
+            updatedBy: "Alexander", updatedAt: "2019-12-21"
+        },
+        employees: {
+            content: "[28](https://urgewald.org/team) team members listesd (Not clear who's employed).",
+            updatedBy: "Alexander", updatedAt: "2019-12-21"
+        },
+        actions: {
+            content: "They currently have [5 campaigns](https://urgewald.org/sites/default/files/7107892_Jahresbericht_2016_2017_10.compressed.pdf) running: " +
+                "\n- Global Coal Exit List" +
+                "\n- Arms & Defense" +
+                "\n- General Annual Meetings" +
+                "\n- Public Banks" +
+                "\n- Consumers",
+            updatedBy: "Alexander", updatedAt: "2019-12-22"
+        },
+        established: {
+            content: "[1992](https://urgewald.org/sites/default/files/7107892_Jahresbericht_2016_2017_10.compressed.pdf)",
+            updatedBy: "Alexander", updatedAt: "2019-12-21"
+        },
+        kpis: {
+            content: "- Money divested" +
+                "\n- Speeches at annual general meetings (by activists and guests)",
+            updatedBy: "Alexander", updatedAt: "2019-12-21",
+
+        },
+        activeCountries: {
+            content: "Germany (nothing further found on website)",
+            updatedBy: "Alexander", updatedAt: "2019-12-21",
+        },
+        yearlyIncome: {
+            content: "- [1,435,746 €](https://urgewald.org/sites/default/files/7107892_Jahresbericht_2016_2017_10.compressed.pdf) in 2017" +
+                "\n- [1,290,530 €](https://urgewald.org/sites/default/files/7107892_Jahresbericht_2016_2017_10.compressed.pdf) in 2016" +
+                "\n- [1,358,204 €](https://urgewald.org/sites/default/files/Ta%CC%88tigkeitsbericht_2015_final.compressed.pdf) in 2015",
+            updatedBy: "Alexander", updatedAt: "2019-12-21"
+        },
+    },
 ];
