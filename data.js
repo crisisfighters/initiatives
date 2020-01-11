@@ -644,4 +644,27 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2019-12-22",
         },
     },
+    {
+        meta: {
+            name: "Protect the Planet",
+            link: "https://www.protect-the-planet.de",
+            label: "protect-the-planet",
+        },
+        description: {
+            content: "Protect the Planet is suing the European Union over the EU's climate targets for 2030 not contributing enough to avert the dangerous consequences of the climate crisis. They also organize yearly talks.",
+            updatedBy: "Alexander", updatedAt: "2019-12-21"
+        },
+        employees: {
+            content: "Not found on their website. [3 founders according to their website](https://www.protect-the-planet.de/?lang=en#ueberuns)",
+            updatedBy: "Alexander", updatedAt: "2019-12-21"
+        },
+        actions: {
+            content: "They work on the [People's Climate Case](https://peoplesclimatecase.caneurope.org/press/) and a few smaller projects",
+            updatedBy: "Alexander", updatedAt: "2019-12-21"
+        },
+        established: {
+            content: "Not found on their website",
+            updatedBy: "Alexander", updatedAt: "2019-12-21"
+        },
+    },
 ];
