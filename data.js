@@ -620,4 +620,28 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2019-12-24"
         },
     },
+    {
+        meta: {
+            name: "urgenda",
+            link: "https://www.urgenda.nl",
+            label: "urgenda",
+            keywords: ["litigation", "march", "europe", "netherlands"],
+        },
+        description: {
+            content: "urgenda successfully sued the Dutch government for violating citizens' human rights by inaction on the climate crisis, forcing the government to take more drastic action in 2020.",
+            updatedBy: "Alexander", updatedAt: "2019-12-22"
+        },
+        actions: {
+            content: "Their main focus was their [Climate Case](https://www.urgenda.nl/en/themas/climate-case/). They also organized a 580km walk called [Climate Miles](https://www.urgenda.nl/en/the-climate-miles/) and participated in the [People's Climate March](https://www.urgenda.nl/en/themas/peoples-climate-march-2/)",
+            updatedBy: "Alexander", updatedAt: "2019-12-22"
+        },
+        established: {
+            content: "[2007](https://www.urgenda.nl/wp-content/uploads/Letter_to_the_government.pdf)",
+            updatedBy: "Alexander", updatedAt: "2019-12-22"
+        },
+        activeCountries: {
+            content: "Netherlands",
+            updatedBy: "Alexander", updatedAt: "2019-12-22",
+        },
+    },
 ];
