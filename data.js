@@ -173,6 +173,53 @@ exports.data = [
             link: "https://www.wri.org/",
             label: "world-resource-institution",
         },
+        established: {
+            content: "1982",
+            updatedBy: "Andre", updatedAt: "2020-01-04",
+        },
+        kpis: {
+            content: "- Organizations using their Guidelines \n- Contracts signed \n- literature wrote \n- Press Mentions",
+            updatedBy: "Andre", updatedAt: "2020-01-13",
+
+        },
+        description: {
+            content: "Another big global player fighting climate crisis. Their approach is to measure their work. Their motto is 'count it, change it, scale it'.",
+            updatedBy: "Andre", updatedAt: "2020-01-13",
+        },
+        
+        actions: {
+            content: "Their outcome is measured well. These are some of (2018)[https://www.wri.org/annualreport/2018-19#page=4] and their are (more)[https://www.wri.org/our-work/outcomes].",
+            updatedBy: "Andre", updatedAt: "2020-01-13",
+
+        },
+        activeCountries: {
+            content: "Offices (global)[https://www.wri.org/annualreport/2018-19] - Headquarter is in Washington, DC.",
+            updatedBy: "Andre", updatedAt: "2020-01-13",
+        },
+        yearlyIncome: {
+            content: "(~ $ 111M in 2018)[https://wriorg.s3.amazonaws.com/s3fs-public/uploads/wri-2018-19-annual-report_0.pdf#page=48]",
+            updatedBy: "Andre", updatedAt: "2020-01-13",
+        },
+        members: {
+            content: "over (1000 Scientists and staff members)[https://www.wri.org/about/experts-staff]",
+            updatedBy: "Andre", updatedAt: "2020-01-13",
+        },
+        employees: {
+            content: "unclear",
+            updatedBy: "Andre", updatedAt: "2020-01-13",
+        },
+        participation: {
+            content: "",
+            updatedBy: "Andre", updatedAt: "2020-01-13",
+        },
+        pressArticles: {
+            content: "",
+            updatedBy: "Andre", updatedAt: "2020-01-13",
+        },
+        socialMedia: {
+            content: "",
+            updatedBy: "Andre", updatedAt: "2020-01-13",
+},
     },
     {
         meta: {
