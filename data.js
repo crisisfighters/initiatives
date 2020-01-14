@@ -103,16 +103,36 @@ exports.data = [
             label: "greenpeace",
         },
         description: {
-            content: "Greenpeace is another big player. They also do work on a big scale as you can see on the Income they have to put them into their projects. Greenpeace has a lot of Actions going on.",
-            updatedBy: "Andre", updatedAt: "2019-08-18"
+            content: "Greenpeace is another big player, working in indipendent national and regional organizations. They do work on a big scale as you can see on the income and the variety of actions.",
+            updatedBy: "Andre", updatedAt: "2020-01-14"
         },
         established: {
             content: "[1971](http://www.tiki-toki.com/timeline/entry/594418/Greenpeace/#vars!date=1942-02-09_13:52:01!)",
             updatedBy: "Andre", updatedAt: "2019-08-06"
         },
         kpis: {
-            content: "- Actions done / pa \n- Participants in actions\n- Members\n- Press Mentions",
-            updatedBy: "Andre", updatedAt: "2019-08-06",
+            content: "- Actions done / pa \n- Participants in actions\n- Members\n- Press Mentions \n- Website visitors",
+            updatedBy: "Andre", updatedAt: "2020-01-14",
+        },
+        actions: {
+            content: "Information again is very important: For instance Greenpeace developed a (Guide to sue your local government for inaction regarding the climate crisis)[https://storage.googleapis.com/planet4-international-stateless/2018/12/4fdd4d8a-peoples_guide_fnl_2.pdf]"+
+                        "\n A lot of their actions of civil disobidience attract attention of the press like at the (auto show)[https://www.thelocal.de/20190914/climate-protesters-to-disrupt-frankfurt-auto-show] in Frankfurt, Germany."+
+                        "\n And of course due their wide knowledge they act as consultant for governmental and non governmental organizations.",
+            updatedBy: "Andre", updatedAt: "2020-01-14",
+
+        },
+        activeCountries: {
+            content: "[27 offices](https://www.greenpeace.org/international/explore/about/worldwide/) worldwide.",
+            updatedBy: "Andre", updatedAt: "2020-01-14",
+        },
+        yearlyIncome: {
+            content: "- 360M € in [2018](https://drive.google.com/file/d/1y2OzoAnRBcQh5MX2hjO_iwjhy8mQJ4vC/view#page=28)" +
+                "\n- 360M € in [2017](https://drive.google.com/file/d/1y2OzoAnRBcQh5MX2hjO_iwjhy8mQJ4vC/view#page=28)",
+            updatedBy: "Andre", updatedAt: "2020-01-14"
+        },
+        pressArticles: {
+            content: "They have a [press section](https://www.greenpeace.org/international/press-centre/) for their own releases, which the press uses all around the world.",
+            updatedBy: "Andre", updatedAt: "2020-01-14",
         },
     },
     {
