@@ -59,7 +59,6 @@ exports.data = [
             content: "XR had it's most visible action so far when it caused [disruption in 5 UK cities in July 2019 (e.g. by blocking bridges in London)](https://rebellion.earth/2019/07/10/from-monday-15-july-extinction-rebellions-summer-uprising-act-now-to-cause-major-disruption-across-five-uk-cities/). " +
                 "Other, smaller acts of civil disobedience happen increasingly frequently world-wide.",
             updatedBy: "Alexander", updatedAt: "2019-08-18",
-
         },
         pressArticles: {
             content: "They have a [press section](https://rebellion.earth/press/). No structured assessment has happened yet.",
@@ -74,7 +73,7 @@ exports.data = [
             label: "wwf",
         },
         description: {
-            content: "The WWF is active since 1961 and therefore a well experienced player within the environmental engagement game. The biggest Pro on WWF is that it is well known and People trust the organization. They do not have a precise focus on the climate crises but there is also a focus on it. One of their goals for 2030 is to reduce greenhouse gas emissions by 40%.",
+            content: "The WWF is active since 1961 and therefore a well experienced player within the environmental engagement game. The biggest pro of WWF is that it is well known and people trust the organization. They do not have a precise focus on the climate crises but there is also a focus on it. One of their goals for 2030 is to reduce greenhouse gas emissions by 40%.",
             updatedBy: "Andre", updatedAt: "2019-08-18"
         },
         established: {
@@ -82,21 +81,45 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-08-06"
         },
         kpis: {
-            content: "- Actions done / pa \n- Participants in actions\n- Members\n- Press Mentions",
+            content: "- Actions done / pa \n- Participants in actions\n- Members\n- Press mentions \n- advised organization \n- Visitors on Website",
             updatedBy: "Andre", updatedAt: "2019-08-06",
-
         },
+        actions: {
+            content: "These vary. With their expertise as a big environmental player they advise (countries, communities and private companies)[https://www.worldwildlife.org/initiatives/climate] in the topic."+
+                    "Own (press releases)[https://www.worldwildlife.org/press-releases?initiative_id=climate] are done."+
+                    "Research like (Climate Crowd)[https://www.wwfclimatecrowd.org/], which is trying to crowdsource information on the impact of climate change."+
+                    "Another focus to fight climate crisis is their (deforstation program.)[https://www.worldwildlife.org/initiatives/climate]",
+            updatedBy: "Andre", updatedAt: "2020-01-14",
+
         activeCountries: {
             content: "[about 100 countries](http://wwf.panda.org/knowledge_hub/history/50_years_of_achievements/)",
             updatedBy: "Andre", updatedAt: "2019-08-18",
+        },
+        participation: {
+            content: "In their most reaching action the (World Hour)[https://www.worldwildlife.org/pages/earth-hour] over 12,000 landmarks and monuments switched off their lights for a whole hour and over 3 Billion social media posts had been done in about (this action in 2017)[http://awsassets.panda.org/downloads/Earth_Hour_Report_2017.pdf#page=6]",
+            updatedBy: "Andre", updatedAt: "2020-01-14"
         },
         yearlyIncome: {
             content: "- 752M € in [2018](http://d2ouvy59p0dg6k.cloudfront.net/downloads/wwfintl_annualreview20182.pdf)" +
                 "\n- 145.9M € in [2013](http://d2ouvy59p0dg6k.cloudfront.net/downloads/ar2013_v15_lr_1.pdf)",
             updatedBy: "Andre", updatedAt: "2019-08-18"
         },
+
+        employees: {
+            content: "6,200 in (2015)[https://web.archive.org/web/20150206122603/http://wwf.panda.org/wwf_quick_facts.cfm]",
+            updatedBy: "Andre", updatedAt: "2019-08-06"
     },
-    {
+    members: {
+        content: "5+ M in (2015)[https://web.archive.org/web/20150206122603/http://wwf.panda.org/wwf_quick_facts.cfm]",
+        updatedBy: "Andre", updatedAt: "2020-01-14"
+    },
+        pressArticles: {
+            content: "They have a [press section](https://www.worldwildlife.org/press-mentions?year=2019) for external press.",
+            updatedBy: "Andre", updatedAt: "2020-01-14",
+
+        },
+    },
+
         meta: {
             name: "Greenpeace",
             link: "https://www.greenpeace.org/international/",
