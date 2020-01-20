@@ -552,7 +552,7 @@ exports.data = [
             label: "climate-realtiy-project",
         },
         description: {
-            content: "Founded by former Vice President Al Gore Climate Reality Project tries to reach their vision of a global network of climate activists.",
+            content: "Founded by former Vice President Al Gore, the Climate Reality works to establish a global network of climate activists by regular trainings and supporting them in spreading the word.",
             updatedBy: "Andre", updatedAt: "2020-01-20"
         },
         established: {
@@ -560,15 +560,15 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2020-01-20"
         },   
         kpis: {
-                content: "- presentations / pa \n- new climate reality leaders / pa \n- downloaded resources / pa",
+                content: "- presentations / pa \n- newly trained climate reality leaders (people able to hold talks and spread the word) / pa \n- downloaded resources / pa",
                 updatedBy: "Andre", updatedAt: "2020-01-20",
         },
         actions: {
-            content: "- holding presentations in 150 countries; individuals can (request)[https://realityhub.climaterealityproject.org/events/attendpresentation?utm_source=24hoursofreality.org&utm_medium=referral&utm_campaign=24Hours&segment=web_homepage_tile&_ga=2.238082944.1453822528.1579548432-1993394381.1579548432] a speaker \n- holding up team meetings around the US \n- and other (initiatives)[https://climaterealityproject.org/initiative] ",
+            content: "- holding presentations in 150 countries; individuals can (request)[https://realityhub.climaterealityproject.org/events/attendpresentation] a speaker \n- holding up team meetings around the US \n- and other (initiatives)[https://climaterealityproject.org/initiative] like a collaboration with the musician Jack Johnson",
             updatedBy: "Andre", updatedAt: "2020-01-20",
         
         activeCountries: {
-                content: "(Branches)[https://climaterealityproject.org/internationalbranches] exist all over the world",
+                content: "(Branches)[https://climaterealityproject.org/internationalbranches] exist on all 5 continents.",
                 updatedBy: "Andre", updatedAt: "2020-01-20"
             },
         },
@@ -581,12 +581,8 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2020-01-20"
         },
         participation: {
-            content: "(20,000 People)[https://www.climaterealityproject.org/our-mission] presenting (so called (Climate Reality Leaders)[https://climaterealityproject.org/climatespeakers?_ga=2.129118732.1453822528.1579548432-1993394381.1579548432]) on the topic of climate crisis & (100)[https://www.climaterealityproject.org/our-mission] teams meeting (so called (chaperts)[https://www.climaterealityproject.org/chapters])",
+            content: "(20,000 People)[https://www.climaterealityproject.org/our-mission] (so called (Climate Reality Leaders)[https://climaterealityproject.org/climatespeakers?_ga=2.129118732.1453822528.1579548432-1993394381.1579548432]) presenting on the topic of climate crisis & (100)[https://www.climaterealityproject.org/our-mission] team meetings (so called (chaperts)[https://www.climaterealityproject.org/chapters])",
             updatedBy: "Andre", updatedAt: "2020-01-20"
-        },
-        pressArticles: {
-            content: "",
-            updatedBy: "Andre", updatedAt: "2020-01-20",
         },
     },
 ];
