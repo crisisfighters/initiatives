@@ -552,7 +552,7 @@ exports.data = [
             label: "climate-realtiy-project",
         },
         description: {
-            content: "Founded by former Vice President Al Gore Climate Reality Project tries to reach their vision a global network of climate activists.",
+            content: "Founded by former Vice President Al Gore Climate Reality Project tries to reach their vision of a global network of climate activists.",
             updatedBy: "Andre", updatedAt: "2020-01-20"
         },
         established: {
