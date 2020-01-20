@@ -545,4 +545,48 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-11-24",
         },
     },
+    {
+        meta: {
+            name: "Climate Reality Project",
+            link: "https://www.climaterealityproject.org/",
+            label: "climate-realtiy-project",
+        },
+        description: {
+            content: "Founded by former Vice President Al Gore Climate Reality Project tries to reach their vision a global network of climate activists.",
+            updatedBy: "Andre", updatedAt: "2020-01-20"
+        },
+        established: {
+            content: "(2006)[https://www.climaterealityproject.org/whoweare]",
+            updatedBy: "Andre", updatedAt: "2020-01-20"
+        },   
+        kpis: {
+                content: "- presentations / pa \n- new climate reality leaders / pa \n- downloaded resources / pa",
+                updatedBy: "Andre", updatedAt: "2020-01-20",
+        },
+        actions: {
+            content: "- holding presentations in 150 countries; individuals can (request)[https://realityhub.climaterealityproject.org/events/attendpresentation?utm_source=24hoursofreality.org&utm_medium=referral&utm_campaign=24Hours&segment=web_homepage_tile&_ga=2.238082944.1453822528.1579548432-1993394381.1579548432] a speaker \n- holding up team meetings around the US \n- and other (initiatives)[https://climaterealityproject.org/initiative] ",
+            updatedBy: "Andre", updatedAt: "2020-01-20",
+        
+        activeCountries: {
+                content: "(Branches)[https://climaterealityproject.org/internationalbranches] exist all over the world",
+                updatedBy: "Andre", updatedAt: "2020-01-20"
+            },
+        },
+        yearlyIncome: {
+            content: "($ 26M)[https://www.climaterealityproject.org/2018-annual-report?_ga=2.125057674.1453822528.1579548432-1993394381.1579548432#arfinance] in 2018",
+            updatedBy: "Andre", updatedAt: "2020-01-20"
+        },
+        employees: {
+            content: "(83)[https://climaterealityproject.org/whoweare]",
+            updatedBy: "Andre", updatedAt: "2020-01-20"
+        },
+        participation: {
+            content: "(20,000 People)[https://www.climaterealityproject.org/our-mission] presenting (so called (Climate Reality Leaders)[https://climaterealityproject.org/climatespeakers?_ga=2.129118732.1453822528.1579548432-1993394381.1579548432]) on the topic of climate crisis & (100)[https://www.climaterealityproject.org/our-mission] teams meeting (so called (chaperts)[https://www.climaterealityproject.org/chapters])",
+            updatedBy: "Andre", updatedAt: "2020-01-20"
+        },
+        pressArticles: {
+            content: "",
+            updatedBy: "Andre", updatedAt: "2020-01-20",
+        },
+    },
 ];
