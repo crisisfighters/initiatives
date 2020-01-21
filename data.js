@@ -193,33 +193,17 @@ exports.data = [
 
         },
         activeCountries: {
-            content: "Offices (global)[https://www.wri.org/annualreport/2018-19] - Headquarter is in Washington, DC.",
-            updatedBy: "Andre", updatedAt: "2020-01-13",
+            content: "They have [offices globally](https://www.wri.org/annualreport/2018-19), their headquarter is in Washington, DC.",
+            updatedBy: "Andre", updatedAt: "2020-01-21",
         },
         yearlyIncome: {
-            content: "(~ $ 111M in 2018)[https://wriorg.s3.amazonaws.com/s3fs-public/uploads/wri-2018-19-annual-report_0.pdf#page=48]",
-            updatedBy: "Andre", updatedAt: "2020-01-13",
+            content: "[~ $ 111M in 2018](https://wriorg.s3.amazonaws.com/s3fs-public/uploads/wri-2018-19-annual-report_0.pdf#page=48)",
+            updatedBy: "Andre", updatedAt: "2020-01-21",
         },
         members: {
-            content: "over (1000 Scientists and staff members)[https://www.wri.org/about/experts-staff]",
+            content: "over [1000 scientists and staff members](https://www.wri.org/about/experts-staff)",
             updatedBy: "Andre", updatedAt: "2020-01-13",
         },
-        employees: {
-            content: "unclear",
-            updatedBy: "Andre", updatedAt: "2020-01-13",
-        },
-        participation: {
-            content: "",
-            updatedBy: "Andre", updatedAt: "2020-01-13",
-        },
-        pressArticles: {
-            content: "",
-            updatedBy: "Andre", updatedAt: "2020-01-13",
-        },
-        socialMedia: {
-            content: "",
-            updatedBy: "Andre", updatedAt: "2020-01-13",
-},
     },
     {
         meta: {
