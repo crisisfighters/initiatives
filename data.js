@@ -73,31 +73,33 @@ exports.data = [
             label: "wwf",
         },
         description: {
-            content: "The WWF is active since 1961 and therefore a well experienced player within the environmental engagement game. The biggest pro of WWF is that it is well known and people trust the organization. They do not have a precise focus on the climate crises but there is also a focus on it. One of their goals for 2030 is to reduce greenhouse gas emissions by 40%.",
-            updatedBy: "Andre", updatedAt: "2019-08-18"
+            content: "The World Wide Fond for nature (WWF) is active since 1961 and therefore a well experienced player within the environmental engagement game. One of their goals for 2030 is to reduce greenhouse gas emissions by 40%.",
+            updatedBy: "Andre", updatedAt: "2020-01-21"
         },
         established: {
             content: "[1961](http://wwf.panda.org/knowledge_hub/history/)",
             updatedBy: "Andre", updatedAt: "2019-08-06"
         },
         kpis: {
-            content: "- Actions done / pa \n- Participants in actions\n- Members\n- Press mentions \n- advised organization \n- Visitors on Website",
-            updatedBy: "Andre", updatedAt: "2019-08-06",
+            content: "- Actions done  \n- Participants in actions\n- Members\n- Press mentions \n- Advised organization",
+            updatedBy: "Andre", updatedAt: "2020-01-21",
         },
         actions: {
-            content: "These vary. With their expertise as a big environmental player they advise (countries, communities and private companies)[https://www.worldwildlife.org/initiatives/climate] in the topic."+
-                    "Own (press releases)[https://www.worldwildlife.org/press-releases?initiative_id=climate] are done."+
+            content: "There is a big variety. Here are some examples:"+
+                    "With their expertise as a big environmental player they advise (countries, communities and private companies)[https://www.worldwildlife.org/initiatives/climate] in the topic."+
+                    "Own (press releases)[https://www.worldwildlife.org/press-releases?initiative_id=climate] are done, which get cited by media."+
                     "Research like (Climate Crowd)[https://www.wwfclimatecrowd.org/], which is trying to crowdsource information on the impact of climate change."+
-                    "Another focus to fight climate crisis is their (deforstation program.)[https://www.worldwildlife.org/initiatives/climate]",
-            updatedBy: "Andre", updatedAt: "2020-01-14",
+                    "Lately they produced a [documentary](https://wwf.panda.org/our_work/projects/our_planet_netflix_wwf_nature_documentary/) with netflix."+
+                    "Their (deforstation program).[https://www.worldwildlife.org/initiatives/climate]",
+            updatedBy: "Andre", updatedAt: "2020-01-22",
 
         activeCountries: {
             content: "[about 100 countries](http://wwf.panda.org/knowledge_hub/history/50_years_of_achievements/)",
             updatedBy: "Andre", updatedAt: "2019-08-18",
         },
         participation: {
-            content: "In their most reaching action the (World Hour)[https://www.worldwildlife.org/pages/earth-hour] over 12,000 landmarks and monuments switched off their lights for a whole hour and over 3 Billion social media posts had been done in about (this action in 2017)[http://awsassets.panda.org/downloads/Earth_Hour_Report_2017.pdf#page=6]",
-            updatedBy: "Andre", updatedAt: "2020-01-14"
+            content: "Their action with the highest social media reach, the [World Hour](https://www.worldwildlife.org/pages/earth-hour), had over 12,000 landmarks and monuments switch off their lights for an hour. In 2017 this resulted in over [3 billion social media posts](http://awsassets.panda.org/downloads/Earth_Hour_Report_2017.pdf#page=6)",
+            updatedBy: "Andre", updatedAt: "2020-01-22"
         },
         yearlyIncome: {
             content: "- 752M € in [2018](http://d2ouvy59p0dg6k.cloudfront.net/downloads/wwfintl_annualreview20182.pdf)" +
@@ -110,12 +112,12 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2019-08-06"
     },
     members: {
-        content: "5+ M in (2015)[https://web.archive.org/web/20150206122603/http://wwf.panda.org/wwf_quick_facts.cfm]",
-        updatedBy: "Andre", updatedAt: "2020-01-14"
+        content: "5M+ in (2015)[https://web.archive.org/web/20150206122603/http://wwf.panda.org/wwf_quick_facts.cfm]",
+        updatedBy: "Andre", updatedAt: "2020-01-22"
     },
         pressArticles: {
-            content: "They have a [press section](https://www.worldwildlife.org/press-mentions?year=2019) for external press.",
-            updatedBy: "Andre", updatedAt: "2020-01-14",
+            content: "Their [press mentions section](https://www.worldwildlife.org/press-mentions?year=2019) is actively maintained.",
+            updatedBy: "Andre", updatedAt: "2020-01-22",
 
         },
     },
