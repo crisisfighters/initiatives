@@ -103,8 +103,8 @@ exports.data = [
             label: "greenpeace",
         },
         description: {
-            content: "Greenpeace is another big player, working in indipendent national and regional organizations. They do work on a big scale as you can see on the income and the variety of actions.",
-            updatedBy: "Andre", updatedAt: "2020-01-14"
+            content: "Greenpeace is another big player, working in independent national and regional organizations. They do work on a big scale as you can see on the income and the variety of actions.",
+            updatedBy: "Andre", updatedAt: "2020-01-22"
         },
         established: {
             content: "[1971](http://www.tiki-toki.com/timeline/entry/594418/Greenpeace/#vars!date=1942-02-09_13:52:01!)",
@@ -115,10 +115,10 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2020-01-14",
         },
         actions: {
-            content: "Information again is very important: For instance Greenpeace developed a (Guide to sue your local government for inaction regarding the climate crisis)[https://storage.googleapis.com/planet4-international-stateless/2018/12/4fdd4d8a-peoples_guide_fnl_2.pdf]"+
-                        "\n A lot of their actions of civil disobidience attract attention of the press like at the (auto show)[https://www.thelocal.de/20190914/climate-protesters-to-disrupt-frankfurt-auto-show] in Frankfurt, Germany."+
+            content: "Greenpeace does a lot of PR and help for independent action. For example they developed a (Guide to sue your local government for inaction regarding the climate crisis)[https://storage.googleapis.com/planet4-international-stateless/2018/12/4fdd4d8a-peoples_guide_fnl_2.pdf]"+
+                        "\n A lot of their actions of civil disobedience attract attention of the press like at the (auto show)[https://www.thelocal.de/20190914/climate-protesters-to-disrupt-frankfurt-auto-show] in Frankfurt, Germany."+
                         "\n And of course due their wide knowledge they act as consultant for governmental and non governmental organizations.",
-            updatedBy: "Andre", updatedAt: "2020-01-14",
+            updatedBy: "Andre", updatedAt: "2020-01-22",
 
         },
         activeCountries: {
