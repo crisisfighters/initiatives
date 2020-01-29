@@ -213,7 +213,7 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2020-01-04",
         },
         kpis: {
-            content: "- Organizations using their Guidelines \n- Contracts signed \n- literature wrote \n- Press Mentions",
+            content: "- Organizations using their guidelines \n- Contracts signed \n- literature wrote \n- Press mentions",
             updatedBy: "Andre", updatedAt: "2020-01-13",
 
         },
