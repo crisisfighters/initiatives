@@ -239,7 +239,7 @@ exports.data = [
             updatedBy: "Alexander", updatedAt: "2019-10-04",
         },
         actions: {
-            content: "wide area of work \n- connection individuals. [1,500 events created on their platform](https://350.org/2018-annual-report-organizing/)" +
+            content: "A wide area of work \n- connection individuals. [1,500 events created on their platform](https://350.org/2018-annual-report-organizing/)" +
                      "\n- online presence [1.1 million website visitors](https://350.org/2018-annual-report-organizing/)" +
                      "\n- Campaigns (e.g. against the [Keystone XL Pipeline](https://www.nytimes.com/2015/11/07/us/obama-expected-to-reject-construction-of-keystone-xl-oil-pipeline.html))"+
                      "\n- trainings: [>120,000 online trainings downloaded and 3,400 courses taken](https://350.org/2018-annual-report-organizing/)",
@@ -737,6 +737,46 @@ exports.data = [
                 "\n- [1,290,530 €](https://urgewald.org/sites/default/files/7107892_Jahresbericht_2016_2017_10.compressed.pdf) in 2016" +
                 "\n- [1,358,204 €](https://urgewald.org/sites/default/files/Ta%CC%88tigkeitsbericht_2015_final.compressed.pdf) in 2015",
             updatedBy: "Alexander", updatedAt: "2019-12-21"
+        },
+    },
+    {
+        meta: {
+            name: "Climate Reality Project",
+            link: "https://www.climaterealityproject.org/",
+            label: "climate-realtiy-project",
+        },
+        description: {
+            content: "Founded by former Vice President Al Gore, the Climate Reality works to establish a global network of climate activists by regular trainings and supporting them in spreading the word.",
+            updatedBy: "Andre", updatedAt: "2020-01-20"
+        },
+        established: {
+            content: "(2006)[https://www.climaterealityproject.org/whoweare]",
+            updatedBy: "Andre", updatedAt: "2020-01-20"
+        },   
+        kpis: {
+                content: "- presentations / pa \n- newly trained climate reality leaders (people able to hold talks and spread the word) / pa \n- downloaded resources / pa",
+                updatedBy: "Andre", updatedAt: "2020-01-20",
+        },
+        actions: {
+            content: "- holding presentations in 150 countries; individuals can (request)[https://realityhub.climaterealityproject.org/events/attendpresentation] a speaker \n- holding up team meetings around the US \n- and other (initiatives)[https://climaterealityproject.org/initiative] like a collaboration with the musician Jack Johnson",
+            updatedBy: "Andre", updatedAt: "2020-01-20",
+        
+        activeCountries: {
+                content: "(Branches)[https://climaterealityproject.org/internationalbranches] exist on all 5 continents.",
+                updatedBy: "Andre", updatedAt: "2020-01-20"
+            },
+        },
+        yearlyIncome: {
+            content: "($ 26M)[https://www.climaterealityproject.org/2018-annual-report?_ga=2.125057674.1453822528.1579548432-1993394381.1579548432#arfinance] in 2018",
+            updatedBy: "Andre", updatedAt: "2020-01-20"
+        },
+        employees: {
+            content: "(83)[https://climaterealityproject.org/whoweare]",
+            updatedBy: "Andre", updatedAt: "2020-01-20"
+        },
+        participation: {
+            content: "(20,000 People)[https://www.climaterealityproject.org/our-mission] (so called (Climate Reality Leaders)[https://climaterealityproject.org/climatespeakers?_ga=2.129118732.1453822528.1579548432-1993394381.1579548432]) presenting on the topic of climate crisis & (100)[https://www.climaterealityproject.org/our-mission] team meetings (so called (chaperts)[https://www.climaterealityproject.org/chapters])",
+            updatedBy: "Andre", updatedAt: "2020-01-20"
         },
     },
 ];
