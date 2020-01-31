@@ -750,7 +750,7 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2020-01-20"
         },
         established: {
-            content: "(2006)[https://www.climaterealityproject.org/whoweare]",
+            content: "[2006](https://www.climaterealityproject.org/whoweare)",
             updatedBy: "Andre", updatedAt: "2020-01-20"
         },   
         kpis: {
@@ -758,24 +758,24 @@ exports.data = [
                 updatedBy: "Andre", updatedAt: "2020-01-20",
         },
         actions: {
-            content: "- holding presentations in 150 countries; individuals can (request)[https://realityhub.climaterealityproject.org/events/attendpresentation] a speaker \n- holding up team meetings around the US \n- and other (initiatives)[https://climaterealityproject.org/initiative] like a collaboration with the musician Jack Johnson",
+            content: "- holding presentations in 150 countries; individuals can [request](https://realityhub.climaterealityproject.org/events/attendpresentation] a speaker \n- holding up team meetings around the US \n- and other [initiatives](https://climaterealityproject.org/initiative) like a collaboration with the musician Jack Johnson",
             updatedBy: "Andre", updatedAt: "2020-01-20",
         
         activeCountries: {
-                content: "(Branches)[https://climaterealityproject.org/internationalbranches] exist on all 5 continents.",
+                content: "[Branches](https://climaterealityproject.org/internationalbranches) exist on all 5 continents.",
                 updatedBy: "Andre", updatedAt: "2020-01-20"
             },
         },
         yearlyIncome: {
-            content: "($ 26M)[https://www.climaterealityproject.org/2018-annual-report?_ga=2.125057674.1453822528.1579548432-1993394381.1579548432#arfinance] in 2018",
+            content: "[$ 26M](https://www.climaterealityproject.org/2018-annual-report) in 2018",
             updatedBy: "Andre", updatedAt: "2020-01-20"
         },
         employees: {
-            content: "(83)[https://climaterealityproject.org/whoweare]",
+            content: "[83](https://climaterealityproject.org/whoweare)",
             updatedBy: "Andre", updatedAt: "2020-01-20"
         },
         participation: {
-            content: "(20,000 People)[https://www.climaterealityproject.org/our-mission] (so called (Climate Reality Leaders)[https://climaterealityproject.org/climatespeakers?_ga=2.129118732.1453822528.1579548432-1993394381.1579548432]) presenting on the topic of climate crisis & (100)[https://www.climaterealityproject.org/our-mission] team meetings (so called (chaperts)[https://www.climaterealityproject.org/chapters])",
+            content: "[20,000 People](https://www.climaterealityproject.org/our-mission) (so called [Climate Reality Leaders](https://climaterealityproject.org/climatespeakers)) presenting on the topic of climate crisis & [100 team meetings](https://www.climaterealityproject.org/our-mission|) (so called [chaperts](https://www.climaterealityproject.org/chapters))",
             updatedBy: "Andre", updatedAt: "2020-01-20"
         },
     },
