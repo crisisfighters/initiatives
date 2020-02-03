@@ -272,11 +272,6 @@ exports.data = [
             content: "1892",
             updatedBy: "Alexander", updatedAt: "2019-08-18"
         },
-        kpis: {
-            content: "unclear",
-            updatedBy: "Alexander", updatedAt: "2019-08-18",
-
-        },
         description: {
             content: "One of the oldest wildlife protection organization." +
                 "\n- Progressive liberal standpoint" +
@@ -322,6 +317,7 @@ exports.data = [
         meta: {
             name: "Earthjustice",
             link: "https://earthjustice.org/",
+            keywords: ["litigation"],
             label: "earthjustice",
         },
         description: {
@@ -363,6 +359,7 @@ exports.data = [
         meta: {
             name: "Union of concerned Scientists",
             link: "http://ucsusa.org/",
+            keywords: ["science"],
             label: "ucs",
         },
         description: {
@@ -399,6 +396,7 @@ exports.data = [
         meta: {
             name: "Hambacher Forst",
             link: "https://hambacherforst.org/",
+            keywords: ["protest", "fossil", "civil-disobedience", "europe", "germany"],
             label: "hambacher-forst",
         },
         description: {
@@ -445,6 +443,7 @@ exports.data = [
         meta: {
             name: "IPCC",
             link: "https://www.ipcc.ch/",
+            keywords: ["government", "science"],
             label: "IPCC",
         },
         established: {
@@ -477,6 +476,7 @@ exports.data = [
         meta: {
             name: "Green Climate Fund",
             link: "https://www.greenclimate.fund/home",
+            keywords: ["fund", "government"],
             label: "Green Climate Fund",
         },
         established: {
@@ -489,7 +489,10 @@ exports.data = [
 
         },
         description: {
-            content: "The GCF helps developing countries limit or reduce their greenhouse gas (GHG) emissions and adapt to climate change by supporting climate friendly projects. It was set up by the 194 countries who are parties to the United Nations Framework Convention on Climate Change (UNFCCC) in 2010, as part of the Convention’s financial mechanism. GCF launched its initial resource mobilization in 2014, and rapidly gathered pledges worth USD 10.3 billion. These funds come mainly from developed countries, but also from some developing countries, regions, and one city (Paris).",
+            content: "The GCF helps developing countries limit or reduce their greenhouse gas (GHG) emissions and adapt to climate change by supporting climate friendly projects. " 
+            + "It was set up by the 194 countries who are parties to the United Nations Framework Convention on Climate Change (UNFCCC) in 2010, as part of the Convention’s financial mechanism. "
+            + "GCF launched its initial resource mobilization in 2014, and rapidly gathered pledges worth $ 10.3B. " 
+            + "These funds come mainly from developed countries, but also from some developing countries, regions, and one city (Paris).",
             updatedBy: "Andre", updatedAt: "2019-10-04"
         },
     },
@@ -497,6 +500,7 @@ exports.data = [
         meta: {
             name: "ClimateWorks",
             link: "https://www.climateworks.org/",
+            keywords: ["fund", "activist-support", "shareholder"],
             label: "climate-works",
         },
         description: {
@@ -549,7 +553,7 @@ exports.data = [
             name: "Fridays for Future",
             link: "https://fridaysforfuture.org/",
             label: "fridays-for-future",
-            keywords: ["protests", "grassroots"],
+            keywords: ["protest", "grassroots"],
         },
         description: {
             content: "Friday for Future (FFF) started with the individual protest of [Greta Tunberg](https://en.wikipedia.org/wiki/Greta_Thunberg). " +
@@ -591,7 +595,7 @@ exports.data = [
             name: "Sunrise Movement",
             link: "https://www.sunrisemovement.org/",
             label: "sunrise",
-            keywords: ["grassroots", "us", "policy", "green new deal"], 
+            keywords: ["grassroots", "activist-support","training", "us", "policy", "green new deal"], 
         },
         description: {
             content: "To stop climate change and create jobs in the process, Sunrise advocates for a green new deal with the American public and the democratic party in particular",
@@ -625,7 +629,7 @@ exports.data = [
             name: "urgenda",
             link: "https://www.urgenda.nl",
             label: "urgenda",
-            keywords: ["litigation", "march", "europe", "netherlands"],
+            keywords: ["litigation", "europe", "netherlands"],
         },
         description: {
             content: "urgenda successfully sued the Dutch government for violating citizens' human rights by inaction on the climate crisis, forcing the government to take more drastic action in 2020.",
@@ -648,6 +652,7 @@ exports.data = [
         meta: {
             name: "Protect the Planet",
             link: "https://www.protect-the-planet.de",
+            keywords: ["litigation", "europe"],
             label: "protect-the-planet",
         },
         description: {
@@ -671,6 +676,7 @@ exports.data = [
         meta: {
             name: "CLimate Action Network",
             link: "http://climatenetwork.org/",
+            keywords: ["activist-support", "infrastructure"],
             label: "climate-action-network",
         },
         description: {
@@ -699,11 +705,12 @@ exports.data = [
         meta: {
             name: "Urgewald",
             link: "https://www.urgewald.org",
+            keywords: ["activist-support", "divestment", "fossil", "shareholder"],
             label: "urgewald",
         },
         description: {
-            content: "Urgewald campaigns corporations and politicians for divestment from fossil resources, weapons and projects endangering human rights. The ask shareholders of companies to delegate their right to speak at annual general meetings to them to speak up for their concerns.",
-            updatedBy: "Alexander", updatedAt: "2019-12-21"
+            content: "Urgewald campaigns corporations and politicians for divestment from fossil resources, weapons and projects endangering human rights. They ask shareholders of companies to delegate their right to speak at annual general meetings to them to speak up for their concerns.",
+            updatedBy: "Alexander", updatedAt: "2020-02-03"
         },
         employees: {
             content: "[28](https://urgewald.org/team) team members listesd (Not clear who's employed).",
@@ -743,6 +750,7 @@ exports.data = [
         meta: {
             name: "Climate Reality Project",
             link: "https://www.climaterealityproject.org/",
+            keywords: ["activist-support", "stipends", "training"],
             label: "climate-realtiy-project",
         },
         description: {
@@ -783,7 +791,7 @@ exports.data = [
         meta: {
             name: "Climate Emergency Fund",
             link: "https://climateemergencyfund.org",
-            keywords: ["activism", "stipends", "funding"],
+            keywords: ["activist-support", "stipends", "funding"],
             label: "climate-emergency-fund",
         },
         description: {
