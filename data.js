@@ -779,4 +779,36 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2020-01-20"
         },
     },
+    {
+        meta: {
+            name: "Climate Emergency Fund",
+            link: "https://climateemergencyfund.org",
+            keywords: ["activism", "stipends", "funding"],
+            label: "climate-emergency-fund",
+        },
+        description: {
+            content: "The Climate Emergency Fund provides support to individuals and organizations influencing governments and societies to take adequate action to address the climate crisis. ",
+            updatedBy: "Alexander", updatedAt: "2020-02-03"
+        },
+        established: {
+            content: "[2019](https://www.guidestar.org/profile/84-2151545)",
+            updatedBy: "Alexander", updatedAt: "2020-02-03"
+        },
+        kpis: {
+            content: "- Grants handed out\n- people enrolled",
+            updatedBy: "Alexander", updatedAt: "2020-02-03",
+        },
+        actions: {
+            content: "- [Assessing and giving grants](https://climateemergencyfund.org/cef-grant-program/) to individuals and organizations.",
+            updatedBy: "Alexander", updatedAt: "2020-01-20",
+        },
+        employees: {
+            content: "[3](https://climateemergencyfund.org/about-us/)",
+            updatedBy: "Alexander", updatedAt: "2020-02-03"
+        },
+        pressArticles: {
+            content: "They have a [press section](https://climateemergencyfund.org/press/).",
+            updatedBy: "Alexander", updatedAt: "2020-02-03",
+        },
+    },
 ];
