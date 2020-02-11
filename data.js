@@ -223,7 +223,7 @@ exports.data = [
         },
         
         actions: {
-            content: "Their outcome is measured well. These are some of (2018)[https://www.wri.org/annualreport/2018-19#page=4] and their are (more)[https://www.wri.org/our-work/outcomes].",
+            content: "Their outcome is measured well. These are some of [2018](https://www.wri.org/annualreport/2018-19#page=4) and their are (more)[https://www.wri.org/our-work/outcomes].",
             updatedBy: "Andre", updatedAt: "2020-01-13",
 
         },
