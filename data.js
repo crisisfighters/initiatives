@@ -308,13 +308,6 @@ exports.data = [
     },
     {
         meta: {
-            name: "Idle no more",
-            link: "http://www.idlenomore.ca/",
-            label: "idle-no-more",
-        },  
-    },
-    {
-        meta: {
             name: "Earthjustice",
             link: "https://earthjustice.org/",
             keywords: ["litigation"],
