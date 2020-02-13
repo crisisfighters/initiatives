@@ -213,8 +213,8 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2020-01-04",
         },
         kpis: {
-            content: "- Organizations using their guidelines \n- Contracts signed \n- literature wrote \n- Press mentions",
-            updatedBy: "Andre", updatedAt: "2020-01-13",
+            content: "- Organizations using their guidelines \n- Contracts signed \n- Articles wrote \n- Press mentions",
+            updatedBy: "Andre", updatedAt: "2020-02-13",
 
         },
         description: {
@@ -223,8 +223,12 @@ exports.data = [
         },
         
         actions: {
-            content: "Their outcome is measured well. These are some of [2018](https://www.wri.org/annualreport/2018-19#page=4) and their are (more)[https://www.wri.org/our-work/outcomes].",
-            updatedBy: "Andre", updatedAt: "2020-01-13",
+            content: "Examples of [2018](https://www.wri.org/annualreport/2018-19#page=4):"+
+                     "\n- Guidlines of WRI were adopted by several cities to develope a more sustainable traffic."+ 
+                     "\n- Were lobbying for the Paris Agreement."+
+                     "\n- Helped to implement first binding environmental laws in 16 South American states."+
+                     "\n Read about (more)[https://www.wri.org/our-work/outcomes] stories of success though out the past years.",
+            updatedBy: "Andre", updatedAt: "2020-02-13",
 
         },
         activeCountries: {
