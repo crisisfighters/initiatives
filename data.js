@@ -86,12 +86,12 @@ exports.data = [
         },
         actions: {
             content: "There is a big variety. Here are some examples:"+
-                    "With their expertise as a big environmental player they advise (countries, communities and private companies)[https://www.worldwildlife.org/initiatives/climate] in the topic."+
-                    "Own (press releases)[https://www.worldwildlife.org/press-releases?initiative_id=climate] are done, which get cited by media."+
-                    "Research like (Climate Crowd)[https://www.wwfclimatecrowd.org/], which is trying to crowdsource information on the impact of climate change."+
-                    "Lately they produced a [documentary](https://wwf.panda.org/our_work/projects/our_planet_netflix_wwf_nature_documentary/) with netflix."+
-                    "Their (deforstation program).[https://www.worldwildlife.org/initiatives/climate]",
-            updatedBy: "Andre", updatedAt: "2020-01-22",
+                    "\n With their expertise as a big environmental player they advise [countries, communities and private companies](https://www.worldwildlife.org/initiatives/climate) in the topic."+
+                    "\n Own [press releases](https://www.worldwildlife.org/press-releases?initiative_id=climate) are done, which get cited by media."+
+                    "\n Research like [Climate Crowd](https://www.wwfclimatecrowd.org/), which is trying to crowdsource information on the impact of climate change."+
+                    "\n Lately they produced a [documentary](https://wwf.panda.org/our_work/projects/our_planet_netflix_wwf_nature_documentary/) with netflix."+
+                    "\n Their [deforstation program.](https://www.worldwildlife.org/initiatives/climate)",
+            updatedBy: "Andre", updatedAt: "2020-02-13",
 
         activeCountries: {
             content: "[about 100 countries](http://wwf.panda.org/knowledge_hub/history/50_years_of_achievements/)",
@@ -108,12 +108,12 @@ exports.data = [
         },
 
         employees: {
-            content: "6,200 in (2015)[https://web.archive.org/web/20150206122603/http://wwf.panda.org/wwf_quick_facts.cfm]",
-            updatedBy: "Andre", updatedAt: "2019-08-06"
+            content: "6,200 in [2015](https://web.archive.org/web/20150206122603/http://wwf.panda.org/wwf_quick_facts.cfm)",
+            updatedBy: "Andre", updatedAt: "2020-02-13"
     },
     members: {
-        content: "5M+ in (2015)[https://web.archive.org/web/20150206122603/http://wwf.panda.org/wwf_quick_facts.cfm]",
-        updatedBy: "Andre", updatedAt: "2020-01-22"
+        content: "5M+ in [2015](https://web.archive.org/web/20150206122603/http://wwf.panda.org/wwf_quick_facts.cfm)",
+        updatedBy: "Andre", updatedAt: "2020-02-13"
     },
         pressArticles: {
             content: "Their [press mentions section](https://www.worldwildlife.org/press-mentions?year=2019) is actively maintained.",
