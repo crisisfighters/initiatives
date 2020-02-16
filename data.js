@@ -70,6 +70,7 @@ exports.data = [
             name: "WWF",
             link: "http://wwf.panda.org/",
             label: "wwf",
+            keywords: ["conservation", "ngo"],
         },
         description: {
             content: "The WWF is active since 1961 and therefore a well experienced player within the environmental engagement game. The biggest Pro on WWF is that it is well known and People trust the organization. They do not have a precise focus on the climate crises but there is also a focus on it. One of their goals for 2030 is to reduce greenhouse gas emissions by 40%.",
@@ -99,6 +100,7 @@ exports.data = [
             name: "Greenpeace",
             link: "https://www.greenpeace.org/international/",
             label: "greenpeace",
+            keywords: ["conservation", "ngo"],
         },
         description: {
             content: "Greenpeace is another big player. They also do work on a big scale as you can see on the Income they have to put them into their projects. Greenpeace has a lot of Actions going on.",
@@ -1103,7 +1105,7 @@ exports.data = [
         meta: {
             name: "Conservation International",
             link: "https://www.conservation.org/",
-            keywords: ["environmental-protection"],
+            keywords: ["conservation", "ngo"],
             label: "conservation",
         },
         description: {
@@ -1203,6 +1205,43 @@ exports.data = [
             content: "The CATF lobbies US governmental institutions to reduce emissions of greenhouse gases."
             + " In addition they work to structure future [technical options for carbon-reduced energy production](https://www.catf.us/work/advanced-energy-systems/)."
             + " CATF aims to assist corporates and governments in designing future energy systems based on renewables, biofuels, nuclear and systemic improvements of grids and consumption.",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+    },
+    {
+        meta: {
+            name: "ImpactMatters - Climate Change",
+            link: "https://www.impactmatters.org/top-lists/climate-change/",
+            keywords: ["ngo", "impact-assessment", "tree-planting"],
+            label: "impact-matters",
+        },
+        description: {
+            content: "Here, Impact Matters analyses the efficiency of tree planting initiatives."
+            + " It is an attempt to provide donors with the most efficient ways of fighting climate change."
+            + " While tree planting is important, changing public opinion and governments is arguably more impactful."
+            + " Also they seem to rely on impact statements by the organizations they list. There seems to be no independent scientific assessment." 
+            + " That makes initiatives overstating their impact more likely to receive funding.",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+    },
+    {
+        meta: {
+            name: "Rainforest Foundation US",
+            link: "https://rainforestfoundation.org",
+            keywords: ["ngo", "rainforest", "conservation", "indigenous-communities"],
+            label: "rainforest-foundation",
+        },
+        description: {
+            content: "The Rainforest Foundation works on-the-ground to secure land rights for indigenous people."
+            + " They train indigenous communities to use technology to protect their forests."
+            + " The Foundation invests directly in indigenous communities and provides them with the tools, training, and resources necessary to protect their rainforests."
+            + " So far they protected more than 134 km² of rainforest.",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+        actions: {
+            content: "Supply legal and technical support to allow indigenous communities to make decisions and influence public policy"
+            +"\n- Build networks of indigenous technical experts who manage and analyze satellite data, monitor their forests and take action to keep illegal loggers, miners, and traffickers off of their ancestral lands."
+            +"\n-Support leaders and indigenous institutions",
             updatedBy: "Alexander", updatedAt: "2020-02-16"
         },
     },
