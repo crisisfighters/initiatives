@@ -1000,7 +1000,7 @@ exports.data = [
             label: "the-climate-registry",
         },
         description: {
-            content: "The Climate Registry (TCR) runs greenhouse gas reporting programs globally that allow organizations to measure, report and verify the carbon in their operations in order to manage and reduce it.
+            content: "The Climate Registry (TCR) runs greenhouse gas reporting programs globally that allow organizations to measure, report and verify the carbon in their operations in order to manage and reduce it."
             + " TCR also consults with governments on all aspects of greenhouse gas measurement, reporting, and verification."
             + " The Center also consults businesses to become more sustainable.",
             updatedBy: "Alexander", updatedAt: "2020-02-16"
