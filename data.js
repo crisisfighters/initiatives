@@ -169,6 +169,7 @@ exports.data = [
             name: "CERES",
             link: "https://www.ceres.org/",
             label: "ceres",
+            keywords: ["private-sector"]
         },
         established: {
             content: "1989",
@@ -810,6 +811,353 @@ exports.data = [
         pressArticles: {
             content: "They have a [press section](https://climateemergencyfund.org/press/).",
             updatedBy: "Alexander", updatedAt: "2020-02-03",
+        },
+    },
+    {
+        meta: {
+            name: "12/06/2020 Olympia",
+            link: "https://www.startnext.com/12062020",
+            keywords: ["petition", "networking", "event", "grassroots"],
+            label: "12-06-2020-olympia",
+        },
+        description: {
+            content: "One-time event where up to 90,000+ people come together to rent the Olympia stadium Berlin to sign various petitions."
+            + " In Germany, petitions must be discussed by parliament if they get more than 50,000 signatures. In addition there will be talks and presentations on currently pressing social and environmental problems.",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+        established: {
+            content: "[2019](https://www.startnext.com/12062020)",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+    },
+    {
+        meta: {
+            name: "German Zero",
+            link: "https://germanzero.de/",
+            keywords: ["policy", "legislation"],
+            label: "12-06-2020-olympia",
+        },
+        description: {
+            content: "GermanZero is creating a climate action plan to meet Germany's 1.5C commitment that will be turned into proposed legislation before 2022. A nation-wide campaign will then try to get that legislation passed in parliament.",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+        established: {
+            content: "[2019](https://www.startnext.com/12062020)",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+    },
+    {
+        meta: {
+            name: "Hamburg muss handeln",
+            link: "http://hamburg-muss-handeln.de/",
+            keywords: ["private-sector", "legislation", "local", "grassroots"],
+            label: "hamburg-muss-handeln",
+        },
+        description: {
+            content: "A coalition of 300+ companies and organizations from Hamburg to express support for the demands of Fridays for Future. Also provides advice for upcoming state elections.",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+    },
+    {
+        meta: {
+            name: "Fossil Free",
+            link: "https://gofossilfree.org/",
+            keywords: ["grassroots", "legislation", "private-sector", "network", "ngo"],
+            label: "fossil-free",
+        },
+        description: {
+            content: "A network of local grassroots initiatives that individually petition governments and companies to go fossil free. Local groups are present in virtually all major city and are independent in how they pursue their goals and who they talk to.",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+        established: {
+            content: "[2012](https://gofossilfree.org/about/)",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+    },
+    {
+        meta: {
+            name: "Scientists for Future",
+            link: "https://www.scientists4future.org/",
+            keywords: ["science", "grassroots", "education", "ngo"],
+            label: "scientists-for-future",
+        },
+        description: {
+            content: "An interdisciplinary group of scientists working for a sustainable future. They support Fridays for Future and established [Lectures for Future](https://www.scientists4future.org/infomaterial/vortragsreihen/) to push the climate crisis onto the agenda in universities.",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+        established: {
+            content: "Probably [2019](https://www.scientists4future.org/about/faq/)",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+    },
+    {
+        meta: {
+            name: "Europe Beyond Coal",
+            link: "https://www.beyond-coal.eu",
+            keywords: ["coal", "grassroots", "education", "network", "ngo"],
+            label: "europe-beyond-coal",
+        },
+        description: {
+            content: "They pressure governments, investors and insurers to stop supporting extraction and burning of coal in Europe. They track all planned and running [coal plants in the EU](https://beyond-coal.eu/data/) with data on health impact and emissions"
+            +" Europe Beyond Coal is supported by HEAL, WWF, Foundation “Development YES – Open-Pit Mines NO”, Greenpeace, CEE Bankwatch, ClientEarth and CAN Europe",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+    },
+    {
+        meta: {
+            name: "Bankwatch",
+            link: "https://bankwatch.org/",
+            keywords: ["finance", "divestment", "watchdog", "ngo"],
+            label: "bank-watch",
+        },
+        description: {
+            content: "They investigate the impacts of public finance on communities and help protect their rights and livelihoods."
+            + " Bankwatch monitors the European Bank for Reconstruction and Development, the European Investment Bank, the Asian Infrastructure Investment Bank and the EU in creating future budgets."
+            + " They meet their representatives to make local voices heard to fight for more sustainable and fair investments."
+            + " In addition Bankwatch works on the People's Budget, a proposed budget for the EU that (among others) aims at ending funding for fossil fuels.",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+    },
+    {
+        meta: {
+            name: "Development YES - Open Pit Mines NO",
+            link: "https://rozwojtak-odkrywkinie.pl",
+            keywords: ["coal", "grassroots", "ngo"],
+            label: "development-yes-open-pit-mines-no",
+        },
+        description: {
+            content: "This movement aims to prevent plans to build new lignite open-pit mines and transform the Polish economy to higher efficiency and renewables."
+            + " From their website its unclear if it's still active and whether the initiative has their own actions or is rather a network of other initiatives.",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+    },
+    {
+        meta: {
+            name: "REDD.plus",
+            link: "https://www.redd.plus/",
+            keywords: ["offsetting", "reforestation", "deforestation", "private-sector", "public-sector"],
+            label: "redd-dot-plus",
+        },
+        description: {
+            content: "REDD stands for Reducing emissions from deforestation and forest degradation and is part of the UN Framework Convention on Climate Change. It's a private-public initiative, seemingly setting up a registry to allow buying credits that support protection of forest areas."
+            + " The signup link doesn't work and there are [serious concerns about REDD+](https://en.wikipedia.org/wiki/Reducing_emissions_from_deforestation_and_forest_degradation#Concerns).",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+    },
+    {
+        meta: {
+            name: "Voluntary REDD+ Database",
+            link: "http://www.fao.org/forestry/vrd/data/",
+            keywords: ["offsetting", "reforestation", "deforestation", "public-sector"],
+            label: "redd-dot-plus",
+        },
+        description: {
+            content: "This registry visualizes REDD+ initiatives in members of the [Coalition of Rainforest Nations](https://www.rainforestcoalition.org)."
+            + " It shows which countries (without rainforests) are funding these initiatives. The data doesn't come with dates and seems a bit abandoned overall."
+            + " It's hosted by the FAO (Food and Agriculture Organization at the UN)."
+            + " Also there are [serious concerns about REDD+](https://en.wikipedia.org/wiki/Reducing_emissions_from_deforestation_and_forest_degradation#Concerns).",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+    },
+    {
+        meta: {
+            name: "Sandbag",
+            link: "https://sandbag.org.uk/",
+            keywords: ["legislation", "think-tank", "projection", "science", "ngo"],
+            label: "sandbag",
+        },
+        description: {
+            content: "This registry visualizes REDD+ initiatives in members of the [Coalition of Rainforest Nations](https://www.rainforestcoalition.org)."
+            + " It shows which countries (without rainforests) are funding these initiatives. The data doesn't come with dates and seems a bit abandoned overall."
+            + " It's hosted by the FAO (Food and Agriculture Organization at the UN)."
+            + " Also there are [serious concerns about REDD+](https://en.wikipedia.org/wiki/Reducing_emissions_from_deforestation_and_forest_degradation#Concerns).",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+    },
+    {
+        meta: {
+            name: "C2ES",
+            link: "https://www.c2es.org/",
+            keywords: ["legislation", "think-tank", "policy", "targets-private-sector"],
+            label: "c2es",
+        },
+        description: {
+            content: "The Center for Climate and Energy Solutions prepares and pushes for strong climate policy reduce greenhouse gas emissions, promote clean energy, and strengthen resilience to climate impacts."
+            + " It works internationally but has a big focus on US federal, state and municipial levels."
+            + " The Center also consults businesses to become more sustainable.",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+        established: {
+            content: "[1998](https://www.c2es.org/about/)",
+            updatedBy: "Alexander", updatedAt: "2020-02-15"
+        },
+    },
+    {
+        meta: {
+            name: "The Climate Registry",
+            link: "https://www.theclimateregistry.org",
+            keywords: ["reporting", "measuring", "modelling", "targets-private-sector", "ngo"],
+            label: "the-climate-registry",
+        },
+        description: {
+            content: "The Climate Registry (TCR) runs greenhouse gas reporting programs globally that allow organizations to measure, report and verify the carbon in their operations in order to manage and reduce it.
+            + " TCR also consults with governments on all aspects of greenhouse gas measurement, reporting, and verification."
+            + " The Center also consults businesses to become more sustainable.",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+        established: {
+            content: "[2007](https://www.theclimateregistry.org/who-we-are/about-us/), superseeding the [California Climate Action Registry](http://www.caclimateregistry.org/) which was established in 2001",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+    },
+    {
+        meta: {
+            name: "EIT Climate-KIC",
+            link: "https://www.climate-kic.org",
+            keywords: ["think-tank", "network", "financing", "ppp"],
+            label: "eit-climate-kic",
+        },
+        description: {
+            content: "KIC (European Institute of Innovation and Technology Climate Knowledge and Innovation Community) is a think-tank and network that connects entrepreneurs and activists with public and private funding."
+            + " In addition KIC runs educational programs for students, researchers and pupils. Their goal is to train [10% of all young people in Europe until 2030](https://www.climate-kic.org/programmes/education/#graduate).",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+    },
+    {
+        meta: {
+            name: "Friends of the Earth",
+            link: "https://www.foei.org/",
+            keywords: ["litigation", "network", "ngo"],
+            label: "friends-of-the-earth",
+        },
+        description: {
+            content: "FOEI (Friends of the Earth International) calls itself the worlds largest grassroots environmental network. Local groups run diverse campaigns base on internationally agreed-upon priorities:"
+            + " Climate justice and energy, economic justice and resisting neoliberalism, food sovereignty, forests and biodiversity, food sovereignty, human rights, gender justice and sustainability."
+            + " FOEI has 73 national member groups, about 5,000 activists and 2 million members worldwide."
+            + " They challenge the current model of economic and corporate globalization."
+            + " FOEI works with local communities, indigenous peoples, farmers’ movements, trade unions, human rights groups and others to shape their global strategy.",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+        established: {
+            content: "[1969](https://en.wikipedia.org/wiki/Friends_of_the_Earth), after splitting away from the Sierra Club because the latter's support of nuclear energy.",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+    },
+    {
+        meta: {
+            name: "Energy Cities",
+            link: "https://energy-cities.eu/",
+            keywords: ["public-sector", "network", "housing", "divest", "financing", "energy"],
+            label: "energy-cities",
+        },
+        description: {
+            content: "Energy Cities is a European network of 1,000 local governments in 30 countries. They focus on efficiency and wise use of resources while strengthening local participation."
+            + " Energy Cities wants a radical transformation of the energy systems and policies, giving citizens the power to shape a decentralised and renewable energy future."
+            + " They connect citizens, local leaders and EU & national institutions to accelerate the energy transition in Europe.",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+        actions: {
+            content: "- Advocacy work in Brussels and EU member states to increase cities' influence on European governance and legal frameworks on energy transition."
+                     + "\n- Events for members of the network to connect and share experiences."
+                     + "\n- Demonstration and lighthouse projects for new solutions."
+                     + "\n- Documenting and sharing stories off participatory energy transitions with leaders and the public"
+                     + "\nA list of concrete [projects is available online](https://energy-cities.eu/projects/).",
+            updatedBy: "Alexander", updatedAt: "2020-02-16",
+        },
+        established: {
+            content: "[1990](https://en.wikipedia.org/wiki/Energy_Cities]",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+        employees: {
+            content: "[26](https://energy-cities.eu/staff/)",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+    },
+    {
+        meta: {
+            name: "Transition",
+            link: "https://transitionnetwork.org",
+            keywords: ["ngo", "network", "housing", "grassroots", "local", "energy"],
+            label: "transition",
+        },
+        description: {
+            content: "Transition is an international network of local groups. They work inside their communities to find local responses to the climate crisis and other challenges."
+            + " A big focus is on energy efficiency, distributed energy management, a circular economy and health.",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+        actions: {
+            content: "- Stories on water quality, local energy production, energy-efficient housing and [hundreds more are available online](https://transitionnetwork.org/stories/)."
+                     + "\n- Transition also a [guide on how to start a local community and join the movement](https://transitionnetwork.org/resources-essential-guide-transition/).",
+            updatedBy: "Alexander", updatedAt: "2020-02-16",
+        },
+        established: {
+            content: "[2005](https://transitionnetwork.org/about-the-movement/what-is-transition/]",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+        employees: {
+            content: "[10](https://transitionnetwork.org/about-the-movement/the-charity/people/)",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+    },
+    {
+        meta: {
+            name: "Conservation International",
+            link: "https://www.conservation.org/",
+            keywords: ["environmental-protection"],
+            label: "conservation",
+        },
+        description: {
+            content: "Conservation International (CI) is an established NGO protecting land, sea, wildlife and sustainable relationships between human and nature worldwide."
+            + "  CI works with local communities, governments and businesses to conserve as much nature as possible.",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+        actions: {
+            content: "- [Protecting biodiversity hotspots](https://www.conservation.org/priorities/biodiversity-hotspots)"
+            + "\n- [Field projects protecting land, animal and plant species](https://www.conservation.org/priorities/field-projects)"
+            + "\n- [Environmental Advocacy with governments](https://www.conservation.org/priorities/working-with-governments)"
+            + "\n- [Fighting wildlife trafficking](https://www.conservation.org/priorities/wildlife-trade-and-trafficking)"
+            + "All [topics can be found online](https://www.conservation.org/priorities).",
+            updatedBy: "Alexander", updatedAt: "2020-02-16",
+        },
+        yearlyIncome: {
+            content: "- [149M $ in 2018](https://www.conservation.org/about/annual-report)" +
+                "\n- [158M $ in 2017](https://www.conservation.org/docs/default-source/publication-pdfs/fy17_annual_report.pdf?sfvrsn=e3d11069_3)" +
+                "\n- [212M $ in 2016](https://www.conservation.org/docs/default-source/publication-pdfs/2016-annual-report.pdf?sfvrsn=b268b345_3)" +
+                "\n- [165M $ in 2015](https://www.conservation.org/docs/default-source/publication-pdfs/2016-annual-report.pdf?sfvrsn=b268b345_3)",
+            updatedBy: "Alexander", updatedAt: "2019-02-16"
+        },
+        established: {
+            content: "[1987](https://www.conservation.org/about]",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+        employees: {
+            content: "[53](https://www.conservation.org/docs/default-source/publication-pdfs/fy18_annual_report.pdf).",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+    },
+    {
+        meta: {
+            name: "World Business Council for Sustainable Development",
+            link: "https://www.wbcsd.org/",
+            keywords: ["private-sector", "corporate", "network", "think-tank"],
+            label: "wbcsd",
+        },
+        description: {
+            content: "WBCSD is a network of 200 of the largest cooperations (8.5T $ combined revenue, 19M employees)."
+            + " It includes food multinationals as well as large petrochemical corporations."
+            + " Its stated mission is a sustainable economy until 2050. The economic interests of its membership make it seem unlikely that WBCSD can be a pivotal force in that endeavor."
+            + " WBCSD creates business cases on a multitude of topics to assist its members in becoming more sustainable and reducing the harm they inflict on Earth.",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
+        },
+        actions: {
+            content: "- Create business cases to boost sustainability ([Circular Economy](https://www.wbcsd.org/Programs/Circular-Economy), [Cities and Mobility](https://www.wbcsd.org/Programs/Cities-and-Mobility), [Climate & Energy](https://www.wbcsd.org/Programs/Climate-and-Energy), [Food & Nature](https://www.wbcsd.org/Programs/Food-and-Nature), [People](https://www.wbcsd.org/Programs/People) and [Redefining Value](https://www.wbcsd.org/Programs/Redefining-Value)."
+            + "\n- Run the [Global Agribusiness Alliance](https://www.wbcsd.org/Sector-Projects/Global-Agribusiness-Alliance) in which some of the worst environmental offenders slightly increase their sustainability."
+            + "\n[More projects can be found online](https://www.wbcsd.org/).",
+            updatedBy: "Alexander", updatedAt: "2020-02-16",
+        },
+        established: {
+            content: "[1995](https://www.wbcsd.org/Overview/Our-history]",
+            updatedBy: "Alexander", updatedAt: "2020-02-16"
         },
     },
 ];
