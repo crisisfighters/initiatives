@@ -1180,22 +1180,6 @@ exports.data = [
     },
     {
         meta: {
-            name: "Giving Green",
-            link: "https://www.idinsight.org/givinggreen",
-            keywords: ["ngo", "efficiency-assessment"],
-            label: "giving-green",
-        },
-        description: {
-            content: "[IDinsight](https://www.idinsight.org/) works on assessing the efficiency (ratio of effort to impact) of initiatives fighting poverty."
-            + " Giving Green is a project by IDinsight that tries to give clear funding recommendations."
-            + " The website describes the project as being in Beta stage. Many of the recommendations are drawn from [IDinsight itself](https://www.idinsight.org/giving-green-short-term-recommendations)"
-            + " or are sourced from a [report by the Founder's Pledge](https://founderspledge.com/stories/climate-change-executive-summary) and [recommend initiatives focusing on US politics or the REDD+ mechanism](https://www.idinsight.org/giving-green-long-term-recommendations)."
-            + " Giving Green attempts to solve a key question in the fight against the climate crisis but seems to be in a very early stage in doing so.",
-            updatedBy: "Alexander", updatedAt: "2020-02-16"
-        },
-    },
-    {
-        meta: {
             name: "Clean Air Taskforce",
             link: "https://www.catf.us/",
             keywords: ["ngo", "legislation", "energy", "technology"],
