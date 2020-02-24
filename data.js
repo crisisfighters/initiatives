@@ -213,22 +213,22 @@ exports.data = [
             updatedBy: "Andre", updatedAt: "2020-01-04",
         },
         kpis: {
-            content: "- Organizations using their guidelines \n- Contracts signed \n- Articles wrote \n- Press mentions",
-            updatedBy: "Andre", updatedAt: "2020-02-13",
+            content: "- Organizations using their guidelines \n- Contracts signed \n- Press mentions",
+            updatedBy: "Andre", updatedAt: "2020-02-23",
 
         },
         description: {
-            content: "Another big global player fighting climate crisis. Their approach is to measure their work. Their motto is 'count it, change it, scale it'.",
-            updatedBy: "Andre", updatedAt: "2020-01-13",
+            content: "The World Rescource Institution (WRI) is a big and expierenced environmental NGO. Their approach is to measure their work. The motto is 'count it, change it, scale it'. They work not just work on climate issues but also on the topics of energy, food, forests, water, cities and water.",
+            updatedBy: "Andre", updatedAt: "2020-02-23",
         },
         
         actions: {
-            content: "Examples of [2018](https://www.wri.org/annualreport/2018-19#page=4):"+
-                     "\n- Guidlines of WRI were adopted by several cities to develope a more sustainable traffic."+ 
-                     "\n- Were lobbying for the Paris Agreement."+
-                     "\n- Helped to implement first binding environmental laws in 16 South American states."+
-                     "\n Read about (more)[https://www.wri.org/our-work/outcomes] stories of success though out the past years.",
-            updatedBy: "Andre", updatedAt: "2020-02-13",
+            content: "Examples from [2018](https://www.wri.org/annualreport/2018-19#page=4):"+
+                     "\n- Guidlines of WRI were adopted by several cities in Africa, Asia and Latain America to develope more sustainable urban mobility."+ 
+                     "\n- Lobbyied for the Paris Agreement."+
+                     "\n- Helped to implement first binding environmental laws in 16 South American and Caribbean countries."+
+                     "\nRead (more)[https://www.wri.org/our-work/outcomes] stories of success.",
+            updatedBy: "Andre", updatedAt: "2020-02-23",
 
         },
         activeCountries: {
